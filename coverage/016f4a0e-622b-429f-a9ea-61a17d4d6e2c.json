@@ -1,0 +1,94 @@
+{
+  "scriptId": "421",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/metrics.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2161,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 2160,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 2154,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolMetrics",
+      "ranges": [
+        {
+          "startOffset": 389,
+          "endOffset": 514,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "markPinned",
+      "ranges": [
+        {
+          "startOffset": 596,
+          "endOffset": 901,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "markUnpinned",
+      "ranges": [
+        {
+          "startOffset": 977,
+          "endOffset": 1284,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "info",
+      "ranges": [
+        {
+          "startOffset": 1367,
+          "endOffset": 1756,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [
+        {
+          "startOffset": 1825,
+          "endOffset": 1944,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

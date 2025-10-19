@@ -1,0 +1,127 @@
+{
+  "scriptId": "468",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/tr46/4.1.1/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7784,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 7783,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 7777,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "containsNonASCII",
+      "ranges": [
+        {
+          "startOffset": 440,
+          "endOffset": 510,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findStatus",
+      "ranges": [
+        {
+          "startOffset": 512,
+          "endOffset": 1532,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapChars",
+      "ranges": [
+        {
+          "startOffset": 1534,
+          "endOffset": 2359,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateLabel",
+      "ranges": [
+        {
+          "startOffset": 2361,
+          "endOffset": 4805,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isBidiDomain",
+      "ranges": [
+        {
+          "startOffset": 4807,
+          "endOffset": 5110,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "processing",
+      "ranges": [
+        {
+          "startOffset": 5112,
+          "endOffset": 6177,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toASCII",
+      "ranges": [
+        {
+          "startOffset": 6179,
+          "endOffset": 7334,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toUnicode",
+      "ranges": [
+        {
+          "startOffset": 7336,
+          "endOffset": 7728,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "scriptId": "337",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/core/catalog_db.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7197,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 221,
+          "endOffset": 233,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MusicAssetCatalogDB",
+      "ranges": [
+        {
+          "startOffset": 237,
+          "endOffset": 318,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addTrack",
+      "ranges": [
+        {
+          "startOffset": 376,
+          "endOffset": 706,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeTrack",
+      "ranges": [
+        {
+          "startOffset": 758,
+          "endOffset": 887,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTrack",
+      "ranges": [
+        {
+          "startOffset": 932,
+          "endOffset": 1012,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTracks",
+      "ranges": [
+        {
+          "startOffset": 1059,
+          "endOffset": 1176,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAllTracks",
+      "ranges": [
+        {
+          "startOffset": 1226,
+          "endOffset": 1301,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "searchTracks",
+      "ranges": [
+        {
+          "startOffset": 1348,
+          "endOffset": 3082,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateTrack",
+      "ranges": [
+        {
+          "startOffset": 3138,
+          "endOffset": 3394,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasTrack",
+      "ranges": [
+        {
+          "startOffset": 3453,
+          "endOffset": 3569,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTrackCount",
+      "ranges": [
+        {
+          "startOffset": 3635,
+          "endOffset": 3711,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTracksByGenre",
+      "ranges": [
+        {
+          "startOffset": 3751,
+          "endOffset": 3843,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTracksByArtist",
+      "ranges": [
+        {
+          "startOffset": 3884,
+          "endOffset": 3979,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTracksByBPMRange",
+      "ranges": [
+        {
+          "startOffset": 4025,
+          "endOffset": 4162,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTracksByKey",
+      "ranges": [
+        {
+          "startOffset": 4213,
+          "endOffset": 4299,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCompatibleKeys",
+      "ranges": [
+        {
+          "startOffset": 4359,
+          "endOffset": 4422,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTracksWithCompatibleKeys",
+      "ranges": [
+        {
+          "startOffset": 4493,
+          "endOffset": 4665,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getStatistics",
+      "ranges": [
+        {
+          "startOffset": 4708,
+          "endOffset": 6057,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clear",
+      "ranges": [
+        {
+          "startOffset": 6111,
+          "endOffset": 6168,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "importTracks",
+      "ranges": [
+        {
+          "startOffset": 6210,
+          "endOffset": 6755,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exportToJSON",
+      "ranges": [
+        {
+          "startOffset": 6801,
+          "endOffset": 6917,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "importFromJSON",
+      "ranges": [
+        {
+          "startOffset": 6961,
+          "endOffset": 7194,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

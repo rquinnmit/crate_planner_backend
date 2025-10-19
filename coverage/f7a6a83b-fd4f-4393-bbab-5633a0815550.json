@@ -1,0 +1,172 @@
+{
+  "scriptId": "369",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/export/serato_exporter.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5846,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SeratoExporter",
+      "ranges": [
+        {
+          "startOffset": 684,
+          "endOffset": 719,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "export",
+      "ranges": [
+        {
+          "startOffset": 952,
+          "endOffset": 2096,
+          "count": 2
+        },
+        {
+          "startOffset": 1164,
+          "endOffset": 1187,
+          "count": 0
+        },
+        {
+          "startOffset": 1368,
+          "endOffset": 1703,
+          "count": 0
+        },
+        {
+          "startOffset": 1712,
+          "endOffset": 1806,
+          "count": 1
+        },
+        {
+          "startOffset": 1815,
+          "endOffset": 1909,
+          "count": 1
+        },
+        {
+          "startOffset": 2027,
+          "endOffset": 2092,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getM3UExtraMetadata",
+      "ranges": [
+        {
+          "startOffset": 2162,
+          "endOffset": 2356,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exportCSV",
+      "ranges": [
+        {
+          "startOffset": 2474,
+          "endOffset": 3359,
+          "count": 1
+        },
+        {
+          "startOffset": 2739,
+          "endOffset": 3213,
+          "count": 2
+        },
+        {
+          "startOffset": 3040,
+          "endOffset": 3050,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exportTXT",
+      "ranges": [
+        {
+          "startOffset": 3458,
+          "endOffset": 4693,
+          "count": 1
+        },
+        {
+          "startOffset": 3527,
+          "endOffset": 3548,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3659,
+          "endOffset": 4323,
+          "count": 2
+        },
+        {
+          "startOffset": 4104,
+          "endOffset": 4172,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 4385,
+          "endOffset": 4415,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatDuration",
+      "ranges": [
+        {
+          "startOffset": 4776,
+          "endOffset": 4837,
+          "count": 5
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exportWithCuePoints",
+      "ranges": [
+        {
+          "startOffset": 5062,
+          "endOffset": 5347,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exportToSerato",
+      "ranges": [
+        {
+          "startOffset": 5617,
+          "endOffset": 5845,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

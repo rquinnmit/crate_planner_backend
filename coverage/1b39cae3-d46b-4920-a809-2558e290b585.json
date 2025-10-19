@@ -1,0 +1,278 @@
+{
+  "scriptId": "366",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/llm/parsers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 9213,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "extractJSON",
+      "ranges": [
+        {
+          "startOffset": 486,
+          "endOffset": 713,
+          "count": 2
+        },
+        {
+          "startOffset": 629,
+          "endOffset": 688,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseTrackIdResponse",
+      "ranges": [
+        {
+          "startOffset": 817,
+          "endOffset": 1286,
+          "count": 1
+        },
+        {
+          "startOffset": 1019,
+          "endOffset": 1080,
+          "count": 0
+        },
+        {
+          "startOffset": 1158,
+          "endOffset": 1184,
+          "count": 0
+        },
+        {
+          "startOffset": 1196,
+          "endOffset": 1284,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseDerivedIntent",
+      "ranges": [
+        {
+          "startOffset": 1504,
+          "endOffset": 3150,
+          "count": 1
+        },
+        {
+          "startOffset": 1785,
+          "endOffset": 1848,
+          "count": 0
+        },
+        {
+          "startOffset": 1914,
+          "endOffset": 1975,
+          "count": 0
+        },
+        {
+          "startOffset": 2151,
+          "endOffset": 2155,
+          "count": 0
+        },
+        {
+          "startOffset": 2234,
+          "endOffset": 2238,
+          "count": 0
+        },
+        {
+          "startOffset": 2305,
+          "endOffset": 2316,
+          "count": 0
+        },
+        {
+          "startOffset": 2413,
+          "endOffset": 2417,
+          "count": 0
+        },
+        {
+          "startOffset": 2496,
+          "endOffset": 2500,
+          "count": 0
+        },
+        {
+          "startOffset": 2594,
+          "endOffset": 2598,
+          "count": 0
+        },
+        {
+          "startOffset": 2674,
+          "endOffset": 2678,
+          "count": 0
+        },
+        {
+          "startOffset": 2718,
+          "endOffset": 2729,
+          "count": 0
+        },
+        {
+          "startOffset": 2833,
+          "endOffset": 2854,
+          "count": 0
+        },
+        {
+          "startOffset": 2930,
+          "endOffset": 2952,
+          "count": 0
+        },
+        {
+          "startOffset": 3057,
+          "endOffset": 3148,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseCandidatePoolSelection",
+      "ranges": [
+        {
+          "startOffset": 3362,
+          "endOffset": 3604,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseTrackSequence",
+      "ranges": [
+        {
+          "startOffset": 3807,
+          "endOffset": 4028,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parsePlanRevision",
+      "ranges": [
+        {
+          "startOffset": 4230,
+          "endOffset": 4467,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isValidCamelotKey",
+      "ranges": [
+        {
+          "startOffset": 4651,
+          "endOffset": 4720,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sanitizeTrackIds",
+      "ranges": [
+        {
+          "startOffset": 4945,
+          "endOffset": 5325,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseJSON",
+      "ranges": [
+        {
+          "startOffset": 5619,
+          "endOffset": 5970,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseJSONSafe",
+      "ranges": [
+        {
+          "startOffset": 6219,
+          "endOffset": 6426,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasValidJSON",
+      "ranges": [
+        {
+          "startOffset": 6647,
+          "endOffset": 6769,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extractExplanation",
+      "ranges": [
+        {
+          "startOffset": 6997,
+          "endOffset": 7172,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseMultipleJSON",
+      "ranges": [
+        {
+          "startOffset": 7379,
+          "endOffset": 7741,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateBPMRange",
+      "ranges": [
+        {
+          "startOffset": 7899,
+          "endOffset": 8284,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateDuration",
+      "ranges": [
+        {
+          "startOffset": 8446,
+          "endOffset": 8633,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "attemptJSONFix",
+      "ranges": [
+        {
+          "startOffset": 8811,
+          "endOffset": 9212,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

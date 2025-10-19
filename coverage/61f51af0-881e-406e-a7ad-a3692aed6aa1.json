@@ -1,0 +1,171 @@
+{
+  "scriptId": "505",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/connection_pool_events.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 6596,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 6595,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 6589,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ConnectionPoolMonitoringEvent",
+      "ranges": [
+        {
+          "startOffset": 1008,
+          "endOffset": 1102,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionPoolCreatedEvent",
+      "ranges": [
+        {
+          "startOffset": 1368,
+          "endOffset": 1708,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionPoolReadyEvent",
+      "ranges": [
+        {
+          "startOffset": 1964,
+          "endOffset": 2090,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionPoolClosedEvent",
+      "ranges": [
+        {
+          "startOffset": 2344,
+          "endOffset": 2471,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionCreatedEvent",
+      "ranges": [
+        {
+          "startOffset": 2739,
+          "endOffset": 2917,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionReadyEvent",
+      "ranges": [
+        {
+          "startOffset": 3164,
+          "endOffset": 3443,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionClosedEvent",
+      "ranges": [
+        {
+          "startOffset": 3680,
+          "endOffset": 3985,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionCheckOutStartedEvent",
+      "ranges": [
+        {
+          "startOffset": 4253,
+          "endOffset": 4386,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionCheckOutFailedEvent",
+      "ranges": [
+        {
+          "startOffset": 4670,
+          "endOffset": 4950,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionCheckedOutEvent",
+      "ranges": [
+        {
+          "startOffset": 5237,
+          "endOffset": 5494,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionCheckedInEvent",
+      "ranges": [
+        {
+          "startOffset": 5770,
+          "endOffset": 5951,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConnectionPoolClearedEvent",
+      "ranges": [
+        {
+          "startOffset": 6207,
+          "endOffset": 6469,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

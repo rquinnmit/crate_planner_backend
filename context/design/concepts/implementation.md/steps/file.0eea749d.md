@@ -1,0 +1,25 @@
+---
+timestamp: 'Fri Oct 17 2025 13:14:15 GMT-0400 (Eastern Daylight Time)'
+parent: '[[..\20251017_131415.c3cad96a.md]]'
+content_id: 0eea749dc44e25bdcd11bb69a2ead34ed0e8c6c540f2729e95d64e84942780a7
+---
+
+# file: deno.json
+
+```json
+{
+    "imports": {
+        "@concepts/": "./src/concepts/",
+        "@google/generative-ai": "npm:@google/generative-ai@^0.24.1",
+        "@std/dotenv": "jsr:@std/dotenv@^0.224.0",
+        "@std/uuid": "jsr:@std/uuid@^0.223.0",
+        "@utils/": "./src/utils/",
+        "mongodb": "npm:mongodb"
+    },
+    "tasks": {
+        "concepts": "deno run --allow-net --allow-read --allow-sys --allow-env src/concept_server.ts --port 8000 --baseUrl /api",
+        "test": "deno test --allow-net --allow-read --allow-env --allow-sys --allow-write",
+        "test:watch": "deno test --allow-net --allow-read --allow-env --allow-sys --allow-write --watch"
+    }
+}
+```

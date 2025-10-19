@@ -1,0 +1,116 @@
+{
+  "scriptId": "392",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/read_concern.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2698,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 2697,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 2691,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ReadConcern",
+      "ranges": [
+        {
+          "startOffset": 897,
+          "endOffset": 1378,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromOptions",
+      "ranges": [
+        {
+          "startOffset": 1553,
+          "endOffset": 2206,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get MAJORITY",
+      "ranges": [
+        {
+          "startOffset": 2218,
+          "endOffset": 2290,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get AVAILABLE",
+      "ranges": [
+        {
+          "startOffset": 2302,
+          "endOffset": 2376,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get LINEARIZABLE",
+      "ranges": [
+        {
+          "startOffset": 2388,
+          "endOffset": 2468,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get SNAPSHOT",
+      "ranges": [
+        {
+          "startOffset": 2480,
+          "endOffset": 2552,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [
+        {
+          "startOffset": 2557,
+          "endOffset": 2611,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

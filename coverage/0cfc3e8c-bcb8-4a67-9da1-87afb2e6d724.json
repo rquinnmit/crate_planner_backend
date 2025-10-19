@@ -1,0 +1,182 @@
+{
+  "scriptId": "498",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/command_monitoring_events.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 9239,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 9238,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 9232,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CommandStartedEvent",
+      "ranges": [
+        {
+          "startOffset": 836,
+          "endOffset": 1737,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasServiceId",
+      "ranges": [
+        {
+          "startOffset": 1762,
+          "endOffset": 1821,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "CommandSucceededEvent",
+      "ranges": [
+        {
+          "startOffset": 2348,
+          "endOffset": 3088,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasServiceId",
+      "ranges": [
+        {
+          "startOffset": 3113,
+          "endOffset": 3172,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "CommandFailedEvent",
+      "ranges": [
+        {
+          "startOffset": 3702,
+          "endOffset": 4418,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasServiceId",
+      "ranges": [
+        {
+          "startOffset": 4443,
+          "endOffset": 4502,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extractCommandName",
+      "ranges": [
+        {
+          "startOffset": 5037,
+          "endOffset": 5079,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "namespace",
+      "ranges": [
+        {
+          "startOffset": 5099,
+          "endOffset": 5122,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "collectionName",
+      "ranges": [
+        {
+          "startOffset": 5147,
+          "endOffset": 5184,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maybeRedact",
+      "ranges": [
+        {
+          "startOffset": 5206,
+          "endOffset": 5387,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extractCommand",
+      "ranges": [
+        {
+          "startOffset": 6051,
+          "endOffset": 8267,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extractReply",
+      "ranges": [
+        {
+          "startOffset": 8268,
+          "endOffset": 8911,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extractConnectionDetails",
+      "ranges": [
+        {
+          "startOffset": 8912,
+          "endOffset": 9176,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

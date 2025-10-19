@@ -1,0 +1,138 @@
+{
+  "scriptId": "514",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/auth/mongodb_oidc/token_cache.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1732,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 1731,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 1725,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get hasAccessToken",
+      "ranges": [
+        {
+          "startOffset": 468,
+          "endOffset": 531,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasRefreshToken",
+      "ranges": [
+        {
+          "startOffset": 536,
+          "endOffset": 601,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasIdpInfo",
+      "ranges": [
+        {
+          "startOffset": 606,
+          "endOffset": 661,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAccessToken",
+      "ranges": [
+        {
+          "startOffset": 666,
+          "endOffset": 858,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getRefreshToken",
+      "ranges": [
+        {
+          "startOffset": 863,
+          "endOffset": 1058,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getIdpInfo",
+      "ranges": [
+        {
+          "startOffset": 1063,
+          "endOffset": 1243,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "put",
+      "ranges": [
+        {
+          "startOffset": 1248,
+          "endOffset": 1506,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeAccessToken",
+      "ranges": [
+        {
+          "startOffset": 1511,
+          "endOffset": 1576,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeRefreshToken",
+      "ranges": [
+        {
+          "startOffset": 1581,
+          "endOffset": 1648,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

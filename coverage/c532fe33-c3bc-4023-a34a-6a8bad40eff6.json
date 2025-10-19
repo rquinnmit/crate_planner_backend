@@ -1,0 +1,211 @@
+{
+  "scriptId": "335",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/tests/crate_planner_llm_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4792,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 316,
+          "endOffset": 332,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "insertMany",
+      "ranges": [
+        {
+          "startOffset": 336,
+          "endOffset": 405,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 372,
+          "endOffset": 399,
+          "count": 6
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "findOne",
+      "ranges": [
+        {
+          "startOffset": 408,
+          "endOffset": 489,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "find",
+      "ranges": [
+        {
+          "startOffset": 492,
+          "endOffset": 793,
+          "count": 6
+        },
+        {
+          "startOffset": 571,
+          "endOffset": 586,
+          "count": 5
+        },
+        {
+          "startOffset": 588,
+          "endOffset": 729,
+          "count": 5
+        },
+        {
+          "startOffset": 729,
+          "endOffset": 792,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toArray",
+      "ranges": [
+        {
+          "startOffset": 663,
+          "endOffset": 714,
+          "count": 5
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 694,
+          "endOffset": 712,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toArray",
+      "ranges": [
+        {
+          "startOffset": 758,
+          "endOffset": 782,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "collection",
+      "ranges": [
+        {
+          "startOffset": 855,
+          "endOffset": 915,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "seedTracks",
+      "ranges": [
+        {
+          "startOffset": 918,
+          "endOffset": 1508,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MockLLM",
+      "ranges": [
+        {
+          "startOffset": 1594,
+          "endOffset": 1703,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "executeLLM",
+      "ranges": [
+        {
+          "startOffset": 1706,
+          "endOffset": 3109,
+          "count": 2
+        },
+        {
+          "startOffset": 1786,
+          "endOffset": 2285,
+          "count": 1
+        },
+        {
+          "startOffset": 2285,
+          "endOffset": 2483,
+          "count": 0
+        },
+        {
+          "startOffset": 2483,
+          "endOffset": 2738,
+          "count": 1
+        },
+        {
+          "startOffset": 2738,
+          "endOffset": 3108,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3182,
+          "endOffset": 3701,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3767,
+          "endOffset": 4789,
+          "count": 1
+        },
+        {
+          "startOffset": 4601,
+          "endOffset": 4788,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+#EXTM3U
+#PLAYLIST:Relative Test
+
+#EXTINF:300,A - X
+..\..\..\..\..\tmp_test_audio\track1.mp3
+
+#EXTINF:300,B - Y
+..\..\..\..\..\tmp_test_audio\track2.mp3
+

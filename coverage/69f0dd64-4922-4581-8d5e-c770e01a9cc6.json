@@ -1,0 +1,177 @@
+{
+  "scriptId": "524",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/sparse-bitfield/3.0.3/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2533,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 2532,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 2526,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Bitfield",
+      "ranges": [
+        {
+          "startOffset": 285,
+          "endOffset": 1103,
+          "count": 12
+        },
+        {
+          "startOffset": 347,
+          "endOffset": 386,
+          "count": 6
+        },
+        {
+          "startOffset": 386,
+          "endOffset": 395,
+          "count": 0
+        },
+        {
+          "startOffset": 395,
+          "endOffset": 425,
+          "count": 6
+        },
+        {
+          "startOffset": 425,
+          "endOffset": 446,
+          "count": 0
+        },
+        {
+          "startOffset": 446,
+          "endOffset": 488,
+          "count": 6
+        },
+        {
+          "startOffset": 521,
+          "endOffset": 528,
+          "count": 6
+        },
+        {
+          "startOffset": 555,
+          "endOffset": 578,
+          "count": 6
+        },
+        {
+          "startOffset": 705,
+          "endOffset": 762,
+          "count": 0
+        },
+        {
+          "startOffset": 762,
+          "endOffset": 1101,
+          "count": 6
+        },
+        {
+          "startOffset": 930,
+          "endOffset": 1018,
+          "count": 410
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Bitfield.get",
+      "ranges": [
+        {
+          "startOffset": 1130,
+          "endOffset": 1227,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Bitfield.getByte",
+      "ranges": [
+        {
+          "startOffset": 1258,
+          "endOffset": 1428,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Bitfield.set",
+      "ranges": [
+        {
+          "startOffset": 1455,
+          "endOffset": 1609,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Bitfield.toBuffer",
+      "ranges": [
+        {
+          "startOffset": 1641,
+          "endOffset": 1950,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Bitfield.setByte",
+      "ranges": [
+        {
+          "startOffset": 1981,
+          "endOffset": 2356,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "alloc",
+      "ranges": [
+        {
+          "startOffset": 2358,
+          "endOffset": 2470,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "powerOfTwo",
+      "ranges": [
+        {
+          "startOffset": 2472,
+          "endOffset": 2523,
+          "count": 6
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "scriptId": "497",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/connection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 22068,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 22067,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 22061,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasSessionSupport",
+      "ranges": [
+        {
+          "startOffset": 1326,
+          "endOffset": 1465,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "streamIdentifier",
+      "ranges": [
+        {
+          "startOffset": 1466,
+          "endOffset": 2018,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Connection",
+      "ranges": [
+        {
+          "startOffset": 2099,
+          "endOffset": 3381,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hello",
+      "ranges": [
+        {
+          "startOffset": 3386,
+          "endOffset": 3444,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set hello",
+      "ranges": [
+        {
+          "startOffset": 3536,
+          "endOffset": 3656,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get serviceId",
+      "ranges": [
+        {
+          "startOffset": 3661,
+          "endOffset": 3722,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get loadBalanced",
+      "ranges": [
+        {
+          "startOffset": 3727,
+          "endOffset": 3799,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get idleTime",
+      "ranges": [
+        {
+          "startOffset": 3804,
+          "endOffset": 3895,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasSessionSupport",
+      "ranges": [
+        {
+          "startOffset": 3900,
+          "endOffset": 4001,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get supportsOpMsg",
+      "ranges": [
+        {
+          "startOffset": 4006,
+          "endOffset": 4186,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get shouldEmitAndLogCommand",
+      "ranges": [
+        {
+          "startOffset": 4191,
+          "endOffset": 4507,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "markAvailable",
+      "ranges": [
+        {
+          "startOffset": 4512,
+          "endOffset": 4582,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onError",
+      "ranges": [
+        {
+          "startOffset": 4587,
+          "endOffset": 4638,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onClose",
+      "ranges": [
+        {
+          "startOffset": 4643,
+          "endOffset": 4797,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onTimeout",
+      "ranges": [
+        {
+          "startOffset": 4802,
+          "endOffset": 5195,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "destroy",
+      "ranges": [
+        {
+          "startOffset": 5200,
+          "endOffset": 5709,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cleanup",
+      "ranges": [
+        {
+          "startOffset": 6020,
+          "endOffset": 6299,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prepareCommand",
+      "ranges": [
+        {
+          "startOffset": 6304,
+          "endOffset": 9802,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sendWire",
+      "ranges": [
+        {
+          "startOffset": 9807,
+          "endOffset": 11250,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sendCommand",
+      "ranges": [
+        {
+          "startOffset": 11255,
+          "endOffset": 14239,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "command",
+      "ranges": [
+        {
+          "startOffset": 14244,
+          "endOffset": 14569,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exhaustCommand",
+      "ranges": [
+        {
+          "startOffset": 14574,
+          "endOffset": 15063,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwIfAborted",
+      "ranges": [
+        {
+          "startOffset": 15068,
+          "endOffset": 15146,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeCommand",
+      "ranges": [
+        {
+          "startOffset": 15394,
+          "endOffset": 15986,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readMany",
+      "ranges": [
+        {
+          "startOffset": 16403,
+          "endOffset": 16987,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SizedMessageTransform",
+      "ranges": [
+        {
+          "startOffset": 17567,
+          "endOffset": 17730,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_transform",
+      "ranges": [
+        {
+          "startOffset": 17735,
+          "endOffset": 18498,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "CryptoConnection",
+      "ranges": [
+        {
+          "startOffset": 18621,
+          "endOffset": 18741,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "command",
+      "ranges": [
+        {
+          "startOffset": 18746,
+          "endOffset": 21973,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

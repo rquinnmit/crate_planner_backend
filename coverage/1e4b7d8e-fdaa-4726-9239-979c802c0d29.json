@@ -1,0 +1,336 @@
+{
+  "scriptId": "444",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/db.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 15141,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 15140,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 15134,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Db",
+      "ranges": [
+        {
+          "startOffset": 3034,
+          "endOffset": 4262,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get databaseName",
+      "ranges": [
+        {
+          "startOffset": 4267,
+          "endOffset": 4329,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get options",
+      "ranges": [
+        {
+          "startOffset": 4349,
+          "endOffset": 4401,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get secondaryOk",
+      "ranges": [
+        {
+          "startOffset": 4516,
+          "endOffset": 4614,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get readConcern",
+      "ranges": [
+        {
+          "startOffset": 4619,
+          "endOffset": 4679,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get readPreference",
+      "ranges": [
+        {
+          "startOffset": 4837,
+          "endOffset": 5005,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get bsonOptions",
+      "ranges": [
+        {
+          "startOffset": 5010,
+          "endOffset": 5070,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get writeConcern",
+      "ranges": [
+        {
+          "startOffset": 5104,
+          "endOffset": 5166,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get namespace",
+      "ranges": [
+        {
+          "startOffset": 5171,
+          "endOffset": 5238,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createCollection",
+      "ranges": [
+        {
+          "startOffset": 5685,
+          "endOffset": 5914,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "command",
+      "ranges": [
+        {
+          "startOffset": 6936,
+          "endOffset": 7350,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "aggregate",
+      "ranges": [
+        {
+          "startOffset": 7578,
+          "endOffset": 7763,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "admin",
+      "ranges": [
+        {
+          "startOffset": 7808,
+          "endOffset": 7863,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "collection",
+      "ranges": [
+        {
+          "startOffset": 8178,
+          "endOffset": 8482,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stats",
+      "ranges": [
+        {
+          "startOffset": 8602,
+          "endOffset": 8787,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listCollections",
+      "ranges": [
+        {
+          "startOffset": 8792,
+          "endOffset": 8968,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "renameCollection",
+      "ranges": [
+        {
+          "startOffset": 9301,
+          "endOffset": 9704,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dropCollection",
+      "ranges": [
+        {
+          "startOffset": 9950,
+          "endOffset": 10162,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dropDatabase",
+      "ranges": [
+        {
+          "startOffset": 10313,
+          "endOffset": 10509,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "collections",
+      "ranges": [
+        {
+          "startOffset": 10644,
+          "endOffset": 10845,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createIndex",
+      "ranges": [
+        {
+          "startOffset": 11129,
+          "endOffset": 11382,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeUser",
+      "ranges": [
+        {
+          "startOffset": 11553,
+          "endOffset": 11772,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setProfilingLevel",
+      "ranges": [
+        {
+          "startOffset": 11977,
+          "endOffset": 12212,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "profilingLevel",
+      "ranges": [
+        {
+          "startOffset": 12354,
+          "endOffset": 12565,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "indexInformation",
+      "ranges": [
+        {
+          "startOffset": 12570,
+          "endOffset": 12720,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "watch",
+      "ranges": [
+        {
+          "startOffset": 13829,
+          "endOffset": 14143,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "runCursorCommand",
+      "ranges": [
+        {
+          "startOffset": 14566,
+          "endOffset": 14690,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

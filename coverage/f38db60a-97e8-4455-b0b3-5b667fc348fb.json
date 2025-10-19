@@ -1,0 +1,149 @@
+{
+  "scriptId": "491",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/client-side-encryption/providers/azure.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4780,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 4779,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 4773,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AzureCredentialCache",
+      "ranges": [
+        {
+          "startOffset": 917,
+          "endOffset": 971,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getToken",
+      "ranges": [
+        {
+          "startOffset": 976,
+          "endOffset": 1206,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "needsRefresh",
+      "ranges": [
+        {
+          "startOffset": 1211,
+          "endOffset": 1394,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resetCache",
+      "ranges": [
+        {
+          "startOffset": 1442,
+          "endOffset": 1495,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getToken",
+      "ranges": [
+        {
+          "startOffset": 1543,
+          "endOffset": 1599,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseResponse",
+      "ranges": [
+        {
+          "startOffset": 1738,
+          "endOffset": 2833,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addAzureParams",
+      "ranges": [
+        {
+          "startOffset": 2886,
+          "endOffset": 3145,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prepareRequest",
+      "ranges": [
+        {
+          "startOffset": 3316,
+          "endOffset": 3605,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchAzureKMSToken",
+      "ranges": [
+        {
+          "startOffset": 4005,
+          "endOffset": 4456,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadAzureCredentials",
+      "ranges": [
+        {
+          "startOffset": 4590,
+          "endOffset": 4737,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

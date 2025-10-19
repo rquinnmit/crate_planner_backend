@@ -1,0 +1,131 @@
+{
+  "scriptId": "479",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb-connection-string-url/3.0.1/lib/redact.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4309,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 4308,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 4302,
+          "count": 1
+        },
+        {
+          "startOffset": 628,
+          "endOffset": 709,
+          "count": 0
+        },
+        {
+          "startOffset": 885,
+          "endOffset": 927,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 309,
+          "endOffset": 626,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 631,
+          "endOffset": 708,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 792,
+          "endOffset": 883,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__setModuleDefault",
+      "ranges": [
+        {
+          "startOffset": 887,
+          "endOffset": 927,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "__importStar",
+      "ranges": [
+        {
+          "startOffset": 980,
+          "endOffset": 1260,
+          "count": 1
+        },
+        {
+          "startOffset": 1039,
+          "endOffset": 1259,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "redactValidConnectionString",
+      "ranges": [
+        {
+          "startOffset": 1454,
+          "endOffset": 2893,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "redactConnectionString",
+      "ranges": [
+        {
+          "startOffset": 2961,
+          "endOffset": 4208,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

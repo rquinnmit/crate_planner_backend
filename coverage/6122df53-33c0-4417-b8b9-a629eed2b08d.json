@@ -1,0 +1,153 @@
+{
+  "scriptId": "393",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/write_concern.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4245,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 4244,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 4238,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "WriteConcern",
+      "ranges": [
+        {
+          "startOffset": 1404,
+          "endOffset": 1929,
+          "count": 7
+        },
+        {
+          "startOffset": 1516,
+          "endOffset": 1567,
+          "count": 0
+        },
+        {
+          "startOffset": 1671,
+          "endOffset": 1740,
+          "count": 0
+        },
+        {
+          "startOffset": 1770,
+          "endOffset": 1826,
+          "count": 0
+        },
+        {
+          "startOffset": 1854,
+          "endOffset": 1923,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "apply",
+      "ranges": [
+        {
+          "startOffset": 2045,
+          "endOffset": 2489,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromOptions",
+      "ranges": [
+        {
+          "startOffset": 2562,
+          "endOffset": 3569,
+          "count": 7
+        },
+        {
+          "startOffset": 2635,
+          "endOffset": 2652,
+          "count": 0
+        },
+        {
+          "startOffset": 2776,
+          "endOffset": 2822,
+          "count": 0
+        },
+        {
+          "startOffset": 2873,
+          "endOffset": 2912,
+          "count": 0
+        },
+        {
+          "startOffset": 3038,
+          "endOffset": 3047,
+          "count": 0
+        },
+        {
+          "startOffset": 3289,
+          "endOffset": 3320,
+          "count": 0
+        },
+        {
+          "startOffset": 3321,
+          "endOffset": 3354,
+          "count": 0
+        },
+        {
+          "startOffset": 3355,
+          "endOffset": 3379,
+          "count": 0
+        },
+        {
+          "startOffset": 3380,
+          "endOffset": 3410,
+          "count": 0
+        },
+        {
+          "startOffset": 3411,
+          "endOffset": 3439,
+          "count": 0
+        },
+        {
+          "startOffset": 3537,
+          "endOffset": 3568,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "throwIfWriteConcernError",
+      "ranges": [
+        {
+          "startOffset": 3669,
+          "endOffset": 4194,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

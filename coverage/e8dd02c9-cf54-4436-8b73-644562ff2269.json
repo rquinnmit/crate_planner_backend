@@ -1,0 +1,191 @@
+{
+  "scriptId": "335",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/tests/exporters_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3155,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 359,
+          "endOffset": 375,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "insertMany",
+      "ranges": [
+        {
+          "startOffset": 379,
+          "endOffset": 448,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 415,
+          "endOffset": 442,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "find",
+      "ranges": [
+        {
+          "startOffset": 451,
+          "endOffset": 752,
+          "count": 8
+        },
+        {
+          "startOffset": 688,
+          "endOffset": 751,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toArray",
+      "ranges": [
+        {
+          "startOffset": 622,
+          "endOffset": 673,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 653,
+          "endOffset": 671,
+          "count": 16
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toArray",
+      "ranges": [
+        {
+          "startOffset": 717,
+          "endOffset": 741,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 776,
+          "endOffset": 806,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "collection",
+      "ranges": [
+        {
+          "startOffset": 848,
+          "endOffset": 892,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "seed",
+      "ranges": [
+        {
+          "startOffset": 895,
+          "endOffset": 946,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makePlan",
+      "ranges": [
+        {
+          "startOffset": 949,
+          "endOffset": 1171,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureFakeFiles",
+      "ranges": [
+        {
+          "startOffset": 1572,
+          "endOffset": 1832,
+          "count": 2
+        },
+        {
+          "startOffset": 1683,
+          "endOffset": 1692,
+          "count": 0
+        },
+        {
+          "startOffset": 1764,
+          "endOffset": 1830,
+          "count": 4
+        },
+        {
+          "startOffset": 1817,
+          "endOffset": 1826,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1881,
+          "endOffset": 2491,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2538,
+          "endOffset": 3152,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

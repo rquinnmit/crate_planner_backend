@@ -1,0 +1,182 @@
+{
+  "scriptId": "423",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/sdam/topology_description.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 18721,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 18720,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 18714,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TopologyDescription",
+      "ranges": [
+        {
+          "startOffset": 1468,
+          "endOffset": 4807,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateFromSrvPollingEvent",
+      "ranges": [
+        {
+          "startOffset": 4915,
+          "endOffset": 7089,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [
+        {
+          "startOffset": 7208,
+          "endOffset": 11463,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get error",
+      "ranges": [
+        {
+          "startOffset": 11468,
+          "endOffset": 11715,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasKnownServers",
+      "ranges": [
+        {
+          "startOffset": 11804,
+          "endOffset": 11937,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get hasDataBearingServers",
+      "ranges": [
+        {
+          "startOffset": 12042,
+          "endOffset": 12158,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasServer",
+      "ranges": [
+        {
+          "startOffset": 12272,
+          "endOffset": 12340,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [
+        {
+          "startOffset": 12547,
+          "endOffset": 12608,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "topologyTypeForServerType",
+      "ranges": [
+        {
+          "startOffset": 12662,
+          "endOffset": 13254,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateRsFromPrimary",
+      "ranges": [
+        {
+          "startOffset": 13255,
+          "endOffset": 17000,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateRsWithPrimaryFromMember",
+      "ranges": [
+        {
+          "startOffset": 17001,
+          "endOffset": 17560,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateRsNoPrimaryFromMember",
+      "ranges": [
+        {
+          "startOffset": 17561,
+          "endOffset": 18341,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkHasPrimary",
+      "ranges": [
+        {
+          "startOffset": 18342,
+          "endOffset": 18663,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

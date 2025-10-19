@@ -1,0 +1,474 @@
+{
+  "scriptId": "337",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/validation/constraints.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 12715,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateTrack",
+      "ranges": [
+        {
+          "startOffset": 427,
+          "endOffset": 1798,
+          "count": 2
+        },
+        {
+          "startOffset": 541,
+          "endOffset": 577,
+          "count": 0
+        },
+        {
+          "startOffset": 599,
+          "endOffset": 633,
+          "count": 1
+        },
+        {
+          "startOffset": 654,
+          "endOffset": 687,
+          "count": 1
+        },
+        {
+          "startOffset": 718,
+          "endOffset": 739,
+          "count": 1
+        },
+        {
+          "startOffset": 741,
+          "endOffset": 905,
+          "count": 1
+        },
+        {
+          "startOffset": 827,
+          "endOffset": 905,
+          "count": 0
+        },
+        {
+          "startOffset": 924,
+          "endOffset": 1065,
+          "count": 1
+        },
+        {
+          "startOffset": 1006,
+          "endOffset": 1065,
+          "count": 0
+        },
+        {
+          "startOffset": 1105,
+          "endOffset": 1135,
+          "count": 1
+        },
+        {
+          "startOffset": 1137,
+          "endOffset": 1395,
+          "count": 1
+        },
+        {
+          "startOffset": 1218,
+          "endOffset": 1289,
+          "count": 0
+        },
+        {
+          "startOffset": 1325,
+          "endOffset": 1395,
+          "count": 0
+        },
+        {
+          "startOffset": 1461,
+          "endOffset": 1502,
+          "count": 0
+        },
+        {
+          "startOffset": 1504,
+          "endOffset": 1560,
+          "count": 0
+        },
+        {
+          "startOffset": 1592,
+          "endOffset": 1659,
+          "count": 0
+        },
+        {
+          "startOffset": 1661,
+          "endOffset": 1721,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateTrackFilePath",
+      "ranges": [
+        {
+          "startOffset": 1942,
+          "endOffset": 2230,
+          "count": 2
+        },
+        {
+          "startOffset": 2026,
+          "endOffset": 2086,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateCratePrompt",
+      "ranges": [
+        {
+          "startOffset": 2393,
+          "endOffset": 3748,
+          "count": 1
+        },
+        {
+          "startOffset": 2601,
+          "endOffset": 2658,
+          "count": 0
+        },
+        {
+          "startOffset": 2678,
+          "endOffset": 2754,
+          "count": 0
+        },
+        {
+          "startOffset": 2786,
+          "endOffset": 2864,
+          "count": 0
+        },
+        {
+          "startOffset": 2889,
+          "endOffset": 2961,
+          "count": 0
+        },
+        {
+          "startOffset": 3055,
+          "endOffset": 3120,
+          "count": 0
+        },
+        {
+          "startOffset": 3231,
+          "endOffset": 3293,
+          "count": 0
+        },
+        {
+          "startOffset": 3331,
+          "endOffset": 3407,
+          "count": 0
+        },
+        {
+          "startOffset": 3447,
+          "endOffset": 3519,
+          "count": 0
+        },
+        {
+          "startOffset": 3578,
+          "endOffset": 3613,
+          "count": 0
+        },
+        {
+          "startOffset": 3615,
+          "endOffset": 3671,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateDerivedIntent",
+      "ranges": [
+        {
+          "startOffset": 3868,
+          "endOffset": 5417,
+          "count": 1
+        },
+        {
+          "startOffset": 4054,
+          "endOffset": 4117,
+          "count": 0
+        },
+        {
+          "startOffset": 4188,
+          "endOffset": 4248,
+          "count": 0
+        },
+        {
+          "startOffset": 4382,
+          "endOffset": 4450,
+          "count": 0
+        },
+        {
+          "startOffset": 4612,
+          "endOffset": 4675,
+          "count": 0
+        },
+        {
+          "startOffset": 4729,
+          "endOffset": 4935,
+          "count": 0
+        },
+        {
+          "startOffset": 5026,
+          "endOffset": 5158,
+          "count": 0
+        },
+        {
+          "startOffset": 5201,
+          "endOffset": 5340,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateCratePlan",
+      "ranges": [
+        {
+          "startOffset": 5654,
+          "endOffset": 7038,
+          "count": 2
+        },
+        {
+          "startOffset": 5833,
+          "endOffset": 5948,
+          "count": 0
+        },
+        {
+          "startOffset": 6306,
+          "endOffset": 6514,
+          "count": 0
+        },
+        {
+          "startOffset": 6555,
+          "endOffset": 6623,
+          "count": 0
+        },
+        {
+          "startOffset": 6690,
+          "endOffset": 6750,
+          "count": 0
+        },
+        {
+          "startOffset": 6864,
+          "endOffset": 6961,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validatePlanForFinalization",
+      "ranges": [
+        {
+          "startOffset": 7158,
+          "endOffset": 7495,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateTrackFilter",
+      "ranges": [
+        {
+          "startOffset": 7665,
+          "endOffset": 9243,
+          "count": 1
+        },
+        {
+          "startOffset": 7848,
+          "endOffset": 7918,
+          "count": 0
+        },
+        {
+          "startOffset": 7979,
+          "endOffset": 8036,
+          "count": 0
+        },
+        {
+          "startOffset": 8162,
+          "endOffset": 8228,
+          "count": 0
+        },
+        {
+          "startOffset": 8286,
+          "endOffset": 8359,
+          "count": 0
+        },
+        {
+          "startOffset": 8421,
+          "endOffset": 8696,
+          "count": 0
+        },
+        {
+          "startOffset": 8733,
+          "endOffset": 8766,
+          "count": 0
+        },
+        {
+          "startOffset": 8768,
+          "endOffset": 8820,
+          "count": 0
+        },
+        {
+          "startOffset": 8840,
+          "endOffset": 8990,
+          "count": 0
+        },
+        {
+          "startOffset": 9046,
+          "endOffset": 9095,
+          "count": 0
+        },
+        {
+          "startOffset": 9097,
+          "endOffset": 9166,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "satisfiesBPMConstraint",
+      "ranges": [
+        {
+          "startOffset": 9492,
+          "endOffset": 9591,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "satisfiesDurationConstraint",
+      "ranges": [
+        {
+          "startOffset": 9832,
+          "endOffset": 9954,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "satisfiesEnergyConstraint",
+      "ranges": [
+        {
+          "startOffset": 10179,
+          "endOffset": 10322,
+          "count": 1
+        },
+        {
+          "startOffset": 10254,
+          "endOffset": 10267,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "satisfiesAllConstraints",
+      "ranges": [
+        {
+          "startOffset": 10529,
+          "endOffset": 11622,
+          "count": 1
+        },
+        {
+          "startOffset": 10698,
+          "endOffset": 10721,
+          "count": 0
+        },
+        {
+          "startOffset": 10774,
+          "endOffset": 10864,
+          "count": 0
+        },
+        {
+          "startOffset": 10866,
+          "endOffset": 10889,
+          "count": 0
+        },
+        {
+          "startOffset": 11024,
+          "endOffset": 11047,
+          "count": 0
+        },
+        {
+          "startOffset": 11122,
+          "endOffset": 11145,
+          "count": 0
+        },
+        {
+          "startOffset": 11183,
+          "endOffset": 11210,
+          "count": 0
+        },
+        {
+          "startOffset": 11212,
+          "endOffset": 11235,
+          "count": 0
+        },
+        {
+          "startOffset": 11254,
+          "endOffset": 11289,
+          "count": 0
+        },
+        {
+          "startOffset": 11291,
+          "endOffset": 11314,
+          "count": 0
+        },
+        {
+          "startOffset": 11358,
+          "endOffset": 11391,
+          "count": 0
+        },
+        {
+          "startOffset": 11393,
+          "endOffset": 11416,
+          "count": 0
+        },
+        {
+          "startOffset": 11438,
+          "endOffset": 11479,
+          "count": 0
+        },
+        {
+          "startOffset": 11481,
+          "endOffset": 11504,
+          "count": 0
+        },
+        {
+          "startOffset": 11533,
+          "endOffset": 11580,
+          "count": 0
+        },
+        {
+          "startOffset": 11582,
+          "endOffset": 11605,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getConstraintViolations",
+      "ranges": [
+        {
+          "startOffset": 11792,
+          "endOffset": 12714,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "scriptId": "364",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/import/spotify_key_converter.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4471,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "spotifyKeyToCamelot",
+      "ranges": [
+        {
+          "startOffset": 1562,
+          "endOffset": 1875,
+          "count": 5
+        },
+        {
+          "startOffset": 1666,
+          "endOffset": 1677,
+          "count": 4
+        },
+        {
+          "startOffset": 1679,
+          "endOffset": 1701,
+          "count": 1
+        },
+        {
+          "startOffset": 1701,
+          "endOffset": 1746,
+          "count": 4
+        },
+        {
+          "startOffset": 1746,
+          "endOffset": 1759,
+          "count": 2
+        },
+        {
+          "startOffset": 1761,
+          "endOffset": 1783,
+          "count": 1
+        },
+        {
+          "startOffset": 1783,
+          "endOffset": 1865,
+          "count": 3
+        },
+        {
+          "startOffset": 1865,
+          "endOffset": 1872,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "camelotToSpotifyKey",
+      "ranges": [
+        {
+          "startOffset": 2268,
+          "endOffset": 2581,
+          "count": 3
+        },
+        {
+          "startOffset": 2408,
+          "endOffset": 2564,
+          "count": 47
+        },
+        {
+          "startOffset": 2442,
+          "endOffset": 2560,
+          "count": 2
+        },
+        {
+          "startOffset": 2564,
+          "endOffset": 2580,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "spotifyKeyToStandard",
+      "ranges": [
+        {
+          "startOffset": 2803,
+          "endOffset": 3168,
+          "count": 3
+        },
+        {
+          "startOffset": 2873,
+          "endOffset": 2895,
+          "count": 1
+        },
+        {
+          "startOffset": 2895,
+          "endOffset": 3108,
+          "count": 2
+        },
+        {
+          "startOffset": 3108,
+          "endOffset": 3117,
+          "count": 1
+        },
+        {
+          "startOffset": 3118,
+          "endOffset": 3127,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isValidSpotifyKey",
+      "ranges": [
+        {
+          "startOffset": 3318,
+          "endOffset": 3421,
+          "count": 4
+        },
+        {
+          "startOffset": 3389,
+          "endOffset": 3418,
+          "count": 3
+        },
+        {
+          "startOffset": 3404,
+          "endOffset": 3417,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCompatibleKeys",
+      "ranges": [
+        {
+          "startOffset": 3716,
+          "endOffset": 4470,
+          "count": 1
+        },
+        {
+          "startOffset": 3828,
+          "endOffset": 3838,
+          "count": 0
+        },
+        {
+          "startOffset": 3952,
+          "endOffset": 3962,
+          "count": 0
+        },
+        {
+          "startOffset": 4149,
+          "endOffset": 4152,
+          "count": 0
+        },
+        {
+          "startOffset": 4192,
+          "endOffset": 4196,
+          "count": 0
+        },
+        {
+          "startOffset": 4395,
+          "endOffset": 4400,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

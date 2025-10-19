@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Single Track
+
+#EXTINF:300,A - X
+C:/tmp_test_audio/track1.mp3
+

@@ -1,0 +1,160 @@
+{
+  "scriptId": "429",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/sort.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2952,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 2951,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 2945,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "prepareDirection",
+      "ranges": [
+        {
+          "startOffset": 384,
+          "endOffset": 862,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMeta",
+      "ranges": [
+        {
+          "startOffset": 880,
+          "endOffset": 996,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPair",
+      "ranges": [
+        {
+          "startOffset": 1014,
+          "endOffset": 1243,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDeep",
+      "ranges": [
+        {
+          "startOffset": 1244,
+          "endOffset": 1318,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMap",
+      "ranges": [
+        {
+          "startOffset": 1319,
+          "endOffset": 1383,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pairToMap",
+      "ranges": [
+        {
+          "startOffset": 1401,
+          "endOffset": 1487,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deepToMap",
+      "ranges": [
+        {
+          "startOffset": 1505,
+          "endOffset": 1637,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringsToMap",
+      "ranges": [
+        {
+          "startOffset": 1655,
+          "endOffset": 1769,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "objectToMap",
+      "ranges": [
+        {
+          "startOffset": 1787,
+          "endOffset": 1959,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapToMap",
+      "ranges": [
+        {
+          "startOffset": 1977,
+          "endOffset": 2142,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatSort",
+      "ranges": [
+        {
+          "startOffset": 2225,
+          "endOffset": 2910,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

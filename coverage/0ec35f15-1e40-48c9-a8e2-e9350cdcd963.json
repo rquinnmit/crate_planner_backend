@@ -1,0 +1,151 @@
+{
+  "scriptId": "367",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/prompts/crate_prompting.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 12222,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createDeriveIntentPrompt",
+      "ranges": [
+        {
+          "startOffset": 508,
+          "endOffset": 2845,
+          "count": 1
+        },
+        {
+          "startOffset": 700,
+          "endOffset": 728,
+          "count": 0
+        },
+        {
+          "startOffset": 837,
+          "endOffset": 844,
+          "count": 0
+        },
+        {
+          "startOffset": 883,
+          "endOffset": 891,
+          "count": 0
+        },
+        {
+          "startOffset": 990,
+          "endOffset": 1007,
+          "count": 0
+        },
+        {
+          "startOffset": 1082,
+          "endOffset": 1100,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createQueryPlanPrompt",
+      "ranges": [
+        {
+          "startOffset": 3134,
+          "endOffset": 5236,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createCandidatePoolPrompt",
+      "ranges": [
+        {
+          "startOffset": 5518,
+          "endOffset": 7119,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSequencePlanPrompt",
+      "ranges": [
+        {
+          "startOffset": 7422,
+          "endOffset": 8470,
+          "count": 1
+        },
+        {
+          "startOffset": 7754,
+          "endOffset": 7765,
+          "count": 0
+        },
+        {
+          "startOffset": 8158,
+          "endOffset": 8169,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createExplainPlanPrompt",
+      "ranges": [
+        {
+          "startOffset": 8734,
+          "endOffset": 9227,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createRevisionPrompt",
+      "ranges": [
+        {
+          "startOffset": 9612,
+          "endOffset": 10770,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validatePrompt",
+      "ranges": [
+        {
+          "startOffset": 10975,
+          "endOffset": 11262,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "estimateTokenCount",
+      "ranges": [
+        {
+          "startOffset": 11456,
+          "endOffset": 11583,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "truncateTrackList",
+      "ranges": [
+        {
+          "startOffset": 11780,
+          "endOffset": 12221,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

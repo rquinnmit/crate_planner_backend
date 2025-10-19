@@ -1,0 +1,138 @@
+{
+  "scriptId": "484",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/client-side-encryption/auto_encrypter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 11862,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 11861,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 11855,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getMongoCrypt",
+      "ranges": [
+        {
+          "startOffset": 1322,
+          "endOffset": 1549,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AutoEncrypter",
+      "ranges": [
+        {
+          "startOffset": 3568,
+          "endOffset": 7758,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "init",
+      "ranges": [
+        {
+          "startOffset": 7965,
+          "endOffset": 9153,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "teardown",
+      "ranges": [
+        {
+          "startOffset": 9229,
+          "endOffset": 9311,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "encrypt",
+      "ranges": [
+        {
+          "startOffset": 9380,
+          "endOffset": 10393,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decrypt",
+      "ranges": [
+        {
+          "startOffset": 10448,
+          "endOffset": 10956,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "askForKMSCredentials",
+      "ranges": [
+        {
+          "startOffset": 11206,
+          "endOffset": 11323,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get cryptSharedLibVersionInfo",
+      "ranges": [
+        {
+          "startOffset": 11524,
+          "endOffset": 11622,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get libmongocryptVersion",
+      "ranges": [
+        {
+          "startOffset": 11634,
+          "endOffset": 11735,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

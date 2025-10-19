@@ -1,0 +1,149 @@
+{
+  "scriptId": "373",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/validation/constraints.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 12715,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateTrack",
+      "ranges": [
+        {
+          "startOffset": 427,
+          "endOffset": 1798,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateTrackFilePath",
+      "ranges": [
+        {
+          "startOffset": 1942,
+          "endOffset": 2230,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateCratePrompt",
+      "ranges": [
+        {
+          "startOffset": 2393,
+          "endOffset": 3748,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateDerivedIntent",
+      "ranges": [
+        {
+          "startOffset": 3868,
+          "endOffset": 5417,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateCratePlan",
+      "ranges": [
+        {
+          "startOffset": 5654,
+          "endOffset": 7038,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validatePlanForFinalization",
+      "ranges": [
+        {
+          "startOffset": 7158,
+          "endOffset": 7495,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateTrackFilter",
+      "ranges": [
+        {
+          "startOffset": 7665,
+          "endOffset": 9243,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "satisfiesBPMConstraint",
+      "ranges": [
+        {
+          "startOffset": 9492,
+          "endOffset": 9591,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "satisfiesDurationConstraint",
+      "ranges": [
+        {
+          "startOffset": 9832,
+          "endOffset": 9954,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "satisfiesEnergyConstraint",
+      "ranges": [
+        {
+          "startOffset": 10179,
+          "endOffset": 10322,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "satisfiesAllConstraints",
+      "ranges": [
+        {
+          "startOffset": 10529,
+          "endOffset": 11622,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getConstraintViolations",
+      "ranges": [
+        {
+          "startOffset": 11792,
+          "endOffset": 12714,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "scriptId": "496",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/connect.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 15208,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 15207,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 15201,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "connect",
+      "ranges": [
+        {
+          "startOffset": 1017,
+          "endOffset": 1364,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeConnection",
+      "ranges": [
+        {
+          "startOffset": 1365,
+          "endOffset": 1628,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkSupportedServer",
+      "ranges": [
+        {
+          "startOffset": 1629,
+          "endOffset": 2843,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "performInitialHandshake",
+      "ranges": [
+        {
+          "startOffset": 2844,
+          "endOffset": 6257,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prepareHandshakeDocument",
+      "ranges": [
+        {
+          "startOffset": 6337,
+          "endOffset": 8082,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseConnectOptions",
+      "ranges": [
+        {
+          "startOffset": 8633,
+          "endOffset": 9584,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseSslOptions",
+      "ranges": [
+        {
+          "startOffset": 9585,
+          "endOffset": 10148,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeSocket",
+      "ranges": [
+        {
+          "startOffset": 10149,
+          "endOffset": 12540,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadSocks",
+      "ranges": [
+        {
+          "startOffset": 12559,
+          "endOffset": 12812,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeSocks5Connection",
+      "ranges": [
+        {
+          "startOffset": 12813,
+          "endOffset": 14555,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "connectionFailureError",
+      "ranges": [
+        {
+          "startOffset": 14556,
+          "endOffset": 15163,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

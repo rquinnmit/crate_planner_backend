@@ -1,0 +1,126 @@
+{
+  "scriptId": "335",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/tests/crate_planner_deterministic_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4068,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 286,
+          "endOffset": 302,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "insertMany",
+      "ranges": [
+        {
+          "startOffset": 306,
+          "endOffset": 375,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 342,
+          "endOffset": 369,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "findOne",
+      "ranges": [
+        {
+          "startOffset": 378,
+          "endOffset": 459,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "find",
+      "ranges": [
+        {
+          "startOffset": 462,
+          "endOffset": 2068,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "collection",
+      "ranges": [
+        {
+          "startOffset": 2130,
+          "endOffset": 2190,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sampleTracks",
+      "ranges": [
+        {
+          "startOffset": 2193,
+          "endOffset": 2902,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2956,
+          "endOffset": 3491,
+          "count": 1
+        },
+        {
+          "startOffset": 3363,
+          "endOffset": 3490,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3544,
+          "endOffset": 4065,
+          "count": 1
+        },
+        {
+          "startOffset": 3824,
+          "endOffset": 4064,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

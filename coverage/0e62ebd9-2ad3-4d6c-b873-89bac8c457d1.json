@@ -1,0 +1,138 @@
+{
+  "scriptId": "371",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/utils/time_formatters.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5362,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatMMSS",
+      "ranges": [
+        {
+          "startOffset": 421,
+          "endOffset": 591,
+          "count": 5
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatDurationLong",
+      "ranges": [
+        {
+          "startOffset": 915,
+          "endOffset": 1381,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatDurationCompact",
+      "ranges": [
+        {
+          "startOffset": 1667,
+          "endOffset": 2007,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatMinutes",
+      "ranges": [
+        {
+          "startOffset": 2270,
+          "endOffset": 2376,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseMMSS",
+      "ranges": [
+        {
+          "startOffset": 2606,
+          "endOffset": 2952,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatTimeRange",
+      "ranges": [
+        {
+          "startOffset": 3223,
+          "endOffset": 3345,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatDurationWithTolerance",
+      "ranges": [
+        {
+          "startOffset": 3657,
+          "endOffset": 3891,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatDurationDifference",
+      "ranges": [
+        {
+          "startOffset": 4130,
+          "endOffset": 4338,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatBPMRange",
+      "ranges": [
+        {
+          "startOffset": 4615,
+          "endOffset": 4732,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatTrackPosition",
+      "ranges": [
+        {
+          "startOffset": 4946,
+          "endOffset": 5035,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatPercentage",
+      "ranges": [
+        {
+          "startOffset": 5205,
+          "endOffset": 5361,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

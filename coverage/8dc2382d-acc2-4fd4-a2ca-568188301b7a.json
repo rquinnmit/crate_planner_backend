@@ -1,0 +1,94 @@
+{
+  "scriptId": "365",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/utils/camelot.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3784,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCompatibleKeys",
+      "ranges": [
+        {
+          "startOffset": 501,
+          "endOffset": 1106,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "areKeysCompatible",
+      "ranges": [
+        {
+          "startOffset": 1299,
+          "endOffset": 1423,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getRelativeKey",
+      "ranges": [
+        {
+          "startOffset": 1647,
+          "endOffset": 1797,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAdjacentKeys",
+      "ranges": [
+        {
+          "startOffset": 1931,
+          "endOffset": 2222,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getKeyCompatibilityLevel",
+      "ranges": [
+        {
+          "startOffset": 2426,
+          "endOffset": 2659,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getKeyDistance",
+      "ranges": [
+        {
+          "startOffset": 2878,
+          "endOffset": 3292,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isValidCamelotKey",
+      "ranges": [
+        {
+          "startOffset": 3707,
+          "endOffset": 3783,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

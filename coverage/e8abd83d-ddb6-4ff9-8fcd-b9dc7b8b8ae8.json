@@ -1,0 +1,105 @@
+{
+  "scriptId": "481",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/wire_protocol/compression.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 6046,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 6045,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 6039,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "loadSnappy",
+      "ranges": [
+        {
+          "startOffset": 1349,
+          "endOffset": 1611,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compress",
+      "ranges": [
+        {
+          "startOffset": 1675,
+          "endOffset": 2567,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decompress",
+      "ranges": [
+        {
+          "startOffset": 2619,
+          "endOffset": 3656,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadZstd",
+      "ranges": [
+        {
+          "startOffset": 3709,
+          "endOffset": 3800,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compressCommand",
+      "ranges": [
+        {
+          "startOffset": 3985,
+          "endOffset": 4467,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decompressResponse",
+      "ranges": [
+        {
+          "startOffset": 4640,
+          "endOffset": 5997,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

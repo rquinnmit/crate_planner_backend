@@ -1,0 +1,94 @@
+{
+  "scriptId": "375",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/prompts/formatters.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2418,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatSeedTracks",
+      "ranges": [
+        {
+          "startOffset": 272,
+          "endOffset": 516,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatTrackList",
+      "ranges": [
+        {
+          "startOffset": 581,
+          "endOffset": 990,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatSeedTrackIds",
+      "ranges": [
+        {
+          "startOffset": 1071,
+          "endOffset": 1252,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatCrateTracks",
+      "ranges": [
+        {
+          "startOffset": 1326,
+          "endOffset": 1800,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatDuration",
+      "ranges": [
+        {
+          "startOffset": 1914,
+          "endOffset": 1988,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatBPMRange",
+      "ranges": [
+        {
+          "startOffset": 2091,
+          "endOffset": 2158,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatKeyList",
+      "ranges": [
+        {
+          "startOffset": 2207,
+          "endOffset": 2417,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

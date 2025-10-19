@@ -1,0 +1,127 @@
+{
+  "scriptId": "517",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/auth/mongodb_oidc/callback_workflow.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 6299,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 6298,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 6292,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CallbackWorkflow",
+      "ranges": [
+        {
+          "startOffset": 1248,
+          "endOffset": 1420,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "speculativeAuth",
+      "ranges": [
+        {
+          "startOffset": 1574,
+          "endOffset": 2244,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reauthenticate",
+      "ranges": [
+        {
+          "startOffset": 2457,
+          "endOffset": 3301,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "startAuthentication",
+      "ranges": [
+        {
+          "startOffset": 3558,
+          "endOffset": 3962,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finishAuthentication",
+      "ranges": [
+        {
+          "startOffset": 4036,
+          "endOffset": 4270,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "executeAndValidateCallback",
+      "ranges": [
+        {
+          "startOffset": 4346,
+          "endOffset": 4756,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "withLock",
+      "ranges": [
+        {
+          "startOffset": 4882,
+          "endOffset": 5677,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isCallbackResultInvalid",
+      "ranges": [
+        {
+          "startOffset": 5947,
+          "endOffset": 6244,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

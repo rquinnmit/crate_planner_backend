@@ -1,0 +1,237 @@
+{
+  "scriptId": "520",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/cmap/auth/scram.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 9982,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 9981,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 9975,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ScramSHA",
+      "ranges": [
+        {
+          "startOffset": 706,
+          "endOffset": 808,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prepare",
+      "ranges": [
+        {
+          "startOffset": 813,
+          "endOffset": 1488,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "auth",
+      "ranges": [
+        {
+          "startOffset": 1493,
+          "endOffset": 1849,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cleanUsername",
+      "ranges": [
+        {
+          "startOffset": 1852,
+          "endOffset": 1949,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clientFirstMessageBare",
+      "ranges": [
+        {
+          "startOffset": 1950,
+          "endOffset": 2362,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeFirstMessage",
+      "ranges": [
+        {
+          "startOffset": 2363,
+          "endOffset": 3042,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "executeScram",
+      "ranges": [
+        {
+          "startOffset": 3043,
+          "endOffset": 3747,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "continueScramConversation",
+      "ranges": [
+        {
+          "startOffset": 3748,
+          "endOffset": 6746,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parsePayload",
+      "ranges": [
+        {
+          "startOffset": 6747,
+          "endOffset": 7083,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "passwordDigest",
+      "ranges": [
+        {
+          "startOffset": 7084,
+          "endOffset": 8035,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "xor",
+      "ranges": [
+        {
+          "startOffset": 8055,
+          "endOffset": 8403,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "H",
+      "ranges": [
+        {
+          "startOffset": 8404,
+          "endOffset": 8492,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "HMAC",
+      "ranges": [
+        {
+          "startOffset": 8493,
+          "endOffset": 8594,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_hiCachePurge",
+      "ranges": [
+        {
+          "startOffset": 8637,
+          "endOffset": 8707,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "HI",
+      "ranges": [
+        {
+          "startOffset": 8762,
+          "endOffset": 9355,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compareDigest",
+      "ranges": [
+        {
+          "startOffset": 9356,
+          "endOffset": 9697,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ScramSHA1",
+      "ranges": [
+        {
+          "startOffset": 9737,
+          "endOffset": 9781,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ScramSHA256",
+      "ranges": [
+        {
+          "startOffset": 9856,
+          "endOffset": 9902,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

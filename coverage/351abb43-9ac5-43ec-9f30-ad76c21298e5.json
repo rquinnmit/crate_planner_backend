@@ -1,0 +1,124 @@
+{
+  "scriptId": "364",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/export/rekordbox_exporter.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4574,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RekordboxExporter",
+      "ranges": [
+        {
+          "startOffset": 529,
+          "endOffset": 564,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "export",
+      "ranges": [
+        {
+          "startOffset": 800,
+          "endOffset": 1782,
+          "count": 2
+        },
+        {
+          "startOffset": 1012,
+          "endOffset": 1035,
+          "count": 0
+        },
+        {
+          "startOffset": 1215,
+          "endOffset": 1524,
+          "count": 1
+        },
+        {
+          "startOffset": 1368,
+          "endOffset": 1392,
+          "count": 0
+        },
+        {
+          "startOffset": 1524,
+          "endOffset": 1603,
+          "count": 1
+        },
+        {
+          "startOffset": 1713,
+          "endOffset": 1778,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getM3UExtraMetadata",
+      "ranges": [
+        {
+          "startOffset": 1851,
+          "endOffset": 2165,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exportXML",
+      "ranges": [
+        {
+          "startOffset": 2264,
+          "endOffset": 4069,
+          "count": 1
+        },
+        {
+          "startOffset": 2354,
+          "endOffset": 2378,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2677,
+          "endOffset": 3435,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3695,
+          "endOffset": 3804,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exportToRekordbox",
+      "ranges": [
+        {
+          "startOffset": 4339,
+          "endOffset": 4573,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

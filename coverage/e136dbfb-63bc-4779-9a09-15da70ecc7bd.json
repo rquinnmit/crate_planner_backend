@@ -1,0 +1,137 @@
+{
+  "scriptId": "396",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/operations/operation.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2911,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 2910,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 2904,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AbstractOperation",
+      "ranges": [
+        {
+          "startOffset": 1246,
+          "endOffset": 1887,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasAspect",
+      "ranges": [
+        {
+          "startOffset": 1892,
+          "endOffset": 2069,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get session",
+      "ranges": [
+        {
+          "startOffset": 2074,
+          "endOffset": 2126,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clearSession",
+      "ranges": [
+        {
+          "startOffset": 2131,
+          "endOffset": 2189,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resetBatch",
+      "ranges": [
+        {
+          "startOffset": 2194,
+          "endOffset": 2235,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get canRetryRead",
+      "ranges": [
+        {
+          "startOffset": 2240,
+          "endOffset": 2372,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get canRetryWrite",
+      "ranges": [
+        {
+          "startOffset": 2377,
+          "endOffset": 2511,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "defineAspects",
+      "ranges": [
+        {
+          "startOffset": 2561,
+          "endOffset": 2864,
+          "count": 31
+        },
+        {
+          "startOffset": 2638,
+          "endOffset": 2666,
+          "count": 0
+        },
+        {
+          "startOffset": 2668,
+          "endOffset": 2704,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

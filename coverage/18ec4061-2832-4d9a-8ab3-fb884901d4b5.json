@@ -1,0 +1,776 @@
+{
+  "scriptId": "404",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/bulk/common.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 32933,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 32932,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 32926,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Batch",
+      "ranges": [
+        {
+          "startOffset": 1326,
+          "endOffset": 1610,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generateIdMap",
+      "ranges": [
+        {
+          "startOffset": 1721,
+          "endOffset": 1878,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BulkWriteResult",
+      "ranges": [
+        {
+          "startOffset": 1961,
+          "endOffset": 2608,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get ok",
+      "ranges": [
+        {
+          "startOffset": 2683,
+          "endOffset": 2730,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getSuccessfullyInsertedIds",
+      "ranges": [
+        {
+          "startOffset": 2824,
+          "endOffset": 3226,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getUpsertedIdAt",
+      "ranges": [
+        {
+          "startOffset": 3285,
+          "endOffset": 3359,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getRawResponse",
+      "ranges": [
+        {
+          "startOffset": 3403,
+          "endOffset": 3455,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasWriteErrors",
+      "ranges": [
+        {
+          "startOffset": 3529,
+          "endOffset": 3604,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getWriteErrorCount",
+      "ranges": [
+        {
+          "startOffset": 3678,
+          "endOffset": 3753,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getWriteErrorAt",
+      "ranges": [
+        {
+          "startOffset": 3807,
+          "endOffset": 3937,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getWriteErrors",
+      "ranges": [
+        {
+          "startOffset": 3979,
+          "endOffset": 4043,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getWriteConcernError",
+      "ranges": [
+        {
+          "startOffset": 4106,
+          "endOffset": 4900,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [
+        {
+          "startOffset": 4905,
+          "endOffset": 4997,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isOk",
+      "ranges": [
+        {
+          "startOffset": 5002,
+          "endOffset": 5053,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "WriteConcernError",
+      "ranges": [
+        {
+          "startOffset": 5276,
+          "endOffset": 5338,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get code",
+      "ranges": [
+        {
+          "startOffset": 5380,
+          "endOffset": 5438,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get errmsg",
+      "ranges": [
+        {
+          "startOffset": 5483,
+          "endOffset": 5545,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get errInfo",
+      "ranges": [
+        {
+          "startOffset": 5587,
+          "endOffset": 5651,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [
+        {
+          "startOffset": 5656,
+          "endOffset": 5707,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [
+        {
+          "startOffset": 5712,
+          "endOffset": 5782,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "WriteError",
+      "ranges": [
+        {
+          "startOffset": 5953,
+          "endOffset": 6001,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get code",
+      "ranges": [
+        {
+          "startOffset": 6034,
+          "endOffset": 6082,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get index",
+      "ranges": [
+        {
+          "startOffset": 6140,
+          "endOffset": 6190,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get errmsg",
+      "ranges": [
+        {
+          "startOffset": 6226,
+          "endOffset": 6278,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get errInfo",
+      "ranges": [
+        {
+          "startOffset": 6314,
+          "endOffset": 6368,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getOperation",
+      "ranges": [
+        {
+          "startOffset": 6439,
+          "endOffset": 6489,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [
+        {
+          "startOffset": 6494,
+          "endOffset": 6615,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [
+        {
+          "startOffset": 6620,
+          "endOffset": 6701,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mergeBatchResults",
+      "ranges": [
+        {
+          "startOffset": 6786,
+          "endOffset": 9650,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "executeCommands",
+      "ranges": [
+        {
+          "startOffset": 9651,
+          "endOffset": 13066,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MongoBulkWriteError",
+      "ranges": [
+        {
+          "startOffset": 13549,
+          "endOffset": 13970,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [
+        {
+          "startOffset": 13975,
+          "endOffset": 14031,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get insertedCount",
+      "ranges": [
+        {
+          "startOffset": 14077,
+          "endOffset": 14146,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get matchedCount",
+      "ranges": [
+        {
+          "startOffset": 14202,
+          "endOffset": 14269,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get modifiedCount",
+      "ranges": [
+        {
+          "startOffset": 14315,
+          "endOffset": 14384,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get deletedCount",
+      "ranges": [
+        {
+          "startOffset": 14429,
+          "endOffset": 14496,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get upsertedCount",
+      "ranges": [
+        {
+          "startOffset": 14542,
+          "endOffset": 14611,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get insertedIds",
+      "ranges": [
+        {
+          "startOffset": 14712,
+          "endOffset": 14777,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get upsertedIds",
+      "ranges": [
+        {
+          "startOffset": 14878,
+          "endOffset": 14943,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FindOperators",
+      "ranges": [
+        {
+          "startOffset": 15263,
+          "endOffset": 15341,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [
+        {
+          "startOffset": 15411,
+          "endOffset": 15718,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateOne",
+      "ranges": [
+        {
+          "startOffset": 15786,
+          "endOffset": 16241,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "replaceOne",
+      "ranges": [
+        {
+          "startOffset": 16307,
+          "endOffset": 16762,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deleteOne",
+      "ranges": [
+        {
+          "startOffset": 16827,
+          "endOffset": 17072,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [
+        {
+          "startOffset": 17138,
+          "endOffset": 17380,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "upsert",
+      "ranges": [
+        {
+          "startOffset": 17480,
+          "endOffset": 17677,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "collation",
+      "ranges": [
+        {
+          "startOffset": 17742,
+          "endOffset": 17959,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "arrayFilters",
+      "ranges": [
+        {
+          "startOffset": 18043,
+          "endOffset": 18272,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hint",
+      "ranges": [
+        {
+          "startOffset": 18327,
+          "endOffset": 18524,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BulkWriteShimOperation",
+      "ranges": [
+        {
+          "startOffset": 18914,
+          "endOffset": 19025,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get commandName",
+      "ranges": [
+        {
+          "startOffset": 19030,
+          "endOffset": 19083,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        {
+          "startOffset": 19088,
+          "endOffset": 19572,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BulkOperationBase",
+      "ranges": [
+        {
+          "startOffset": 19786,
+          "endOffset": 23390,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "insert",
+      "ranges": [
+        {
+          "startOffset": 23754,
+          "endOffset": 24005,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "find",
+      "ranges": [
+        {
+          "startOffset": 25174,
+          "endOffset": 25481,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "raw",
+      "ranges": [
+        {
+          "startOffset": 25553,
+          "endOffset": 29385,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get length",
+      "ranges": [
+        {
+          "startOffset": 29390,
+          "endOffset": 29446,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get bsonOptions",
+      "ranges": [
+        {
+          "startOffset": 29451,
+          "endOffset": 29511,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get writeConcern",
+      "ranges": [
+        {
+          "startOffset": 29516,
+          "endOffset": 29578,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get batches",
+      "ranges": [
+        {
+          "startOffset": 29583,
+          "endOffset": 30126,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        {
+          "startOffset": 30131,
+          "endOffset": 31442,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleWriteError",
+      "ranges": [
+        {
+          "startOffset": 31537,
+          "endOffset": 32217,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "shouldForceServerObjectId",
+      "ranges": [
+        {
+          "startOffset": 32222,
+          "endOffset": 32395,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isInsertBatch",
+      "ranges": [
+        {
+          "startOffset": 32445,
+          "endOffset": 32535,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isUpdateBatch",
+      "ranges": [
+        {
+          "startOffset": 32536,
+          "endOffset": 32626,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDeleteBatch",
+      "ranges": [
+        {
+          "startOffset": 32627,
+          "endOffset": 32717,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildCurrentOp",
+      "ranges": [
+        {
+          "startOffset": 32718,
+          "endOffset": 32889,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

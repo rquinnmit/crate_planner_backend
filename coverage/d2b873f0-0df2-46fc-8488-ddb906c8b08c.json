@@ -1,0 +1,182 @@
+{
+  "scriptId": "387",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/sdam/server_selection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 10613,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 10612,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 10606,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "writableServerSelector",
+      "ranges": [
+        {
+          "startOffset": 1002,
+          "endOffset": 1208,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sameServerSelector",
+      "ranges": [
+        {
+          "startOffset": 1345,
+          "endOffset": 1772,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "secondaryWritableServerSelector",
+      "ranges": [
+        {
+          "startOffset": 1900,
+          "endOffset": 2464,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maxStalenessReducer",
+      "ranges": [
+        {
+          "startOffset": 2958,
+          "endOffset": 5184,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tagSetMatch",
+      "ranges": [
+        {
+          "startOffset": 5351,
+          "endOffset": 5700,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tagSetReducer",
+      "ranges": [
+        {
+          "startOffset": 5997,
+          "endOffset": 6632,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "latencyWindowReducer",
+      "ranges": [
+        {
+          "startOffset": 7092,
+          "endOffset": 7501,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "primaryFilter",
+      "ranges": [
+        {
+          "startOffset": 7513,
+          "endOffset": 7605,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "secondaryFilter",
+      "ranges": [
+        {
+          "startOffset": 7606,
+          "endOffset": 7702,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nearestFilter",
+      "ranges": [
+        {
+          "startOffset": 7703,
+          "endOffset": 7846,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "knownFilter",
+      "ranges": [
+        {
+          "startOffset": 7847,
+          "endOffset": 7935,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadBalancerFilter",
+      "ranges": [
+        {
+          "startOffset": 7936,
+          "endOffset": 8036,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readPreferenceServerSelector",
+      "ranges": [
+        {
+          "startOffset": 8190,
+          "endOffset": 10559,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

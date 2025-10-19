@@ -1,0 +1,165 @@
+{
+  "scriptId": "456",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/deps.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5699,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 5698,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 5692,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "makeErrorModule",
+      "ranges": [
+        {
+          "startOffset": 660,
+          "endOffset": 994,
+          "count": 1
+        },
+        {
+          "startOffset": 744,
+          "endOffset": 748,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [
+        {
+          "startOffset": 793,
+          "endOffset": 927,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set",
+      "ranges": [
+        {
+          "startOffset": 942,
+          "endOffset": 984,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getKerberos",
+      "ranges": [
+        {
+          "startOffset": 995,
+          "endOffset": 1513,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getZstdLibrary",
+      "ranges": [
+        {
+          "startOffset": 1514,
+          "endOffset": 1963,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAwsCredentialProvider",
+      "ranges": [
+        {
+          "startOffset": 1964,
+          "endOffset": 2605,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getGcpMetadata",
+      "ranges": [
+        {
+          "startOffset": 2606,
+          "endOffset": 3186,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getSnappy",
+      "ranges": [
+        {
+          "startOffset": 3187,
+          "endOffset": 3704,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getSocks",
+      "ranges": [
+        {
+          "startOffset": 3705,
+          "endOffset": 4224,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadAws4",
+      "ranges": [
+        {
+          "startOffset": 4252,
+          "endOffset": 4653,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getMongoDBClientEncryption",
+      "ranges": [
+        {
+          "startOffset": 4744,
+          "endOffset": 5657,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

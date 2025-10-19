@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="CratePilot" Version="1.0.0" Company="CratePilot"/>
+  <COLLECTION Entries="2">
+    <TRACK TrackID="1" Name="Track (Remix) [2024]" Artist="Artist &amp; Co." Album="" Genre="" Kind="MP3 File" TotalTime="300" Year="" AverageBpm="128" Tonality="8A" Label="" Location="C:/tmp_test_audio/special1.mp3"/>
+    <TRACK TrackID="2" Name="Track&apos;s Title" Artist="Artist &quot;DJ&quot; Name" Album="" Genre="" Kind="MP3 File" TotalTime="300" Year="" AverageBpm="130" Tonality="9A" Label="" Location="C:/tmp_test_audio/special2.mp3"/>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT">
+      <NODE Name="Special &amp; &apos;Chars&apos;" Type="1" KeyType="0" Entries="2">
+        <TRACK Key="1"/>
+        <TRACK Key="2"/>
+      </NODE>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>

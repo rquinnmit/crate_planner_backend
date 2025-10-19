@@ -1,0 +1,418 @@
+{
+  "scriptId": "420",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/sessions.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 36466,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 36465,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 36459,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ClientSession",
+      "ranges": [
+        {
+          "startOffset": 2277,
+          "endOffset": 4068,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get id",
+      "ranges": [
+        {
+          "startOffset": 4127,
+          "endOffset": 4184,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get serverSession",
+      "ranges": [
+        {
+          "startOffset": 4189,
+          "endOffset": 4769,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get snapshotEnabled",
+      "ranges": [
+        {
+          "startOffset": 4846,
+          "endOffset": 4914,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get loadBalanced",
+      "ranges": [
+        {
+          "startOffset": 4919,
+          "endOffset": 5039,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get pinnedConnection",
+      "ranges": [
+        {
+          "startOffset": 5065,
+          "endOffset": 5135,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pin",
+      "ranges": [
+        {
+          "startOffset": 5161,
+          "endOffset": 5491,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unpin",
+      "ranges": [
+        {
+          "startOffset": 5517,
+          "endOffset": 5684,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isPinned",
+      "ranges": [
+        {
+          "startOffset": 5689,
+          "endOffset": 5801,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "endSession",
+      "ranges": [
+        {
+          "startOffset": 6098,
+          "endOffset": 7251,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "asyncDispose",
+      "ranges": [
+        {
+          "startOffset": 7277,
+          "endOffset": 7353,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "advanceOperationTime",
+      "ranges": [
+        {
+          "startOffset": 7537,
+          "endOffset": 7819,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "advanceClusterTime",
+      "ranges": [
+        {
+          "startOffset": 8125,
+          "endOffset": 9159,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [
+        {
+          "startOffset": 9293,
+          "endOffset": 9574,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "incrementTransactionNumber",
+      "ranges": [
+        {
+          "startOffset": 9943,
+          "endOffset": 10019,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "inTransaction",
+      "ranges": [
+        {
+          "startOffset": 10102,
+          "endOffset": 10167,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "startTransaction",
+      "ranges": [
+        {
+          "startOffset": 10571,
+          "endOffset": 12307,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "commitTransaction",
+      "ranges": [
+        {
+          "startOffset": 12393,
+          "endOffset": 16362,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abortTransaction",
+      "ranges": [
+        {
+          "startOffset": 16447,
+          "endOffset": 19050,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toBSON",
+      "ranges": [
+        {
+          "startOffset": 19149,
+          "endOffset": 19257,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "withTransaction",
+      "ranges": [
+        {
+          "startOffset": 21578,
+          "endOffset": 24864,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "shouldUnpinAfterCommitError",
+      "ranges": [
+        {
+          "startOffset": 25167,
+          "endOffset": 25797,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "shouldAddUnknownTransactionCommitResultLabel",
+      "ranges": [
+        {
+          "startOffset": 25798,
+          "endOffset": 26118,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isUnknownTransactionCommitResult",
+      "ranges": [
+        {
+          "startOffset": 26119,
+          "endOffset": 26605,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maybeClearPinnedConnection",
+      "ranges": [
+        {
+          "startOffset": 26606,
+          "endOffset": 27855,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMaxTimeMSExpiredError",
+      "ranges": [
+        {
+          "startOffset": 27856,
+          "endOffset": 28154,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerSession",
+      "ranges": [
+        {
+          "startOffset": 28384,
+          "endOffset": 28602,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasTimedOut",
+      "ranges": [
+        {
+          "startOffset": 28767,
+          "endOffset": 29197,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [
+        {
+          "startOffset": 29356,
+          "endOffset": 29934,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ServerSessionPool",
+      "ranges": [
+        {
+          "startOffset": 30092,
+          "endOffset": 30326,
+          "count": 7
+        },
+        {
+          "startOffset": 30142,
+          "endOffset": 30246,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "acquire",
+      "ranges": [
+        {
+          "startOffset": 30640,
+          "endOffset": 31366,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "release",
+      "ranges": [
+        {
+          "startOffset": 31651,
+          "endOffset": 32304,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applySession",
+      "ranges": [
+        {
+          "startOffset": 32611,
+          "endOffset": 35599,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateSessionFromResponse",
+      "ranges": [
+        {
+          "startOffset": 35600,
+          "endOffset": 36420,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

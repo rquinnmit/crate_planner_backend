@@ -1,0 +1,234 @@
+{
+  "scriptId": "474",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/whatwg-url/13.0.0/lib/percent-encoding.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5117,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 5116,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 5110,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "p",
+      "ranges": [
+        {
+          "startOffset": 325,
+          "endOffset": 375,
+          "count": 34
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "percentEncode",
+      "ranges": [
+        {
+          "startOffset": 424,
+          "endOffset": 567,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "percentDecodeBytes",
+      "ranges": [
+        {
+          "startOffset": 616,
+          "endOffset": 1197,
+          "count": 42
+        },
+        {
+          "startOffset": 772,
+          "endOffset": 1155,
+          "count": 273
+        },
+        {
+          "startOffset": 867,
+          "endOffset": 1151,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "percentDecodeString",
+      "ranges": [
+        {
+          "startOffset": 1253,
+          "endOffset": 1363,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isC0ControlPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 1427,
+          "endOffset": 1499,
+          "count": 812
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isFragmentPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 1651,
+          "endOffset": 1768,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isQueryPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 1914,
+          "endOffset": 2025,
+          "count": 616
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isSpecialQueryPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 2092,
+          "endOffset": 2185,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPathPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 2320,
+          "endOffset": 2425,
+          "count": 308
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isUserinfoPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 2619,
+          "endOffset": 2731,
+          "count": 308
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isComponentPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 2884,
+          "endOffset": 3002,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isURLEncodedPercentEncode",
+      "ranges": [
+        {
+          "startOffset": 3180,
+          "endOffset": 3301,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "utf8PercentEncodeCodePointInternal",
+      "ranges": [
+        {
+          "startOffset": 3704,
+          "endOffset": 4151,
+          "count": 812
+        },
+        {
+          "startOffset": 4077,
+          "endOffset": 4127,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "utf8PercentEncodeCodePoint",
+      "ranges": [
+        {
+          "startOffset": 4153,
+          "endOffset": 4329,
+          "count": 308
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "utf8PercentEncodeString",
+      "ranges": [
+        {
+          "startOffset": 4460,
+          "endOffset": 4794,
+          "count": 14
+        },
+        {
+          "startOffset": 4599,
+          "endOffset": 4775,
+          "count": 504
+        },
+        {
+          "startOffset": 4621,
+          "endOffset": 4641,
+          "count": 0
+        },
+        {
+          "startOffset": 4643,
+          "endOffset": 4671,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

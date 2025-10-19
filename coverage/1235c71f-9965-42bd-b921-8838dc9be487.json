@@ -1,0 +1,413 @@
+{
+  "scriptId": "495",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/sdam/monitor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 22064,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 22063,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 22057,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isInCloseState",
+      "ranges": [
+        {
+          "startOffset": 1680,
+          "endOffset": 1816,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Monitor",
+      "ranges": [
+        {
+          "startOffset": 2017,
+          "endOffset": 3918,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "connect",
+      "ranges": [
+        {
+          "startOffset": 3923,
+          "endOffset": 4419,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "requestCheck",
+      "ranges": [
+        {
+          "startOffset": 4424,
+          "endOffset": 4572,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [
+        {
+          "startOffset": 4577,
+          "endOffset": 5297,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 5302,
+          "endOffset": 5578,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get roundTripTime",
+      "ranges": [
+        {
+          "startOffset": 5583,
+          "endOffset": 5652,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get minRoundTripTime",
+      "ranges": [
+        {
+          "startOffset": 5657,
+          "endOffset": 5725,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get latestRtt",
+      "ranges": [
+        {
+          "startOffset": 5730,
+          "endOffset": 5790,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addRttSample",
+      "ranges": [
+        {
+          "startOffset": 5795,
+          "endOffset": 5860,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clearRttSamples",
+      "ranges": [
+        {
+          "startOffset": 5865,
+          "endOffset": 5923,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resetMonitorState",
+      "ranges": [
+        {
+          "startOffset": 5953,
+          "endOffset": 6274,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "useStreamingProtocol",
+      "ranges": [
+        {
+          "startOffset": 6275,
+          "endOffset": 7006,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkServer",
+      "ranges": [
+        {
+          "startOffset": 7007,
+          "endOffset": 12815,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "monitorServer",
+      "ranges": [
+        {
+          "startOffset": 12816,
+          "endOffset": 13950,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeTopologyVersion",
+      "ranges": [
+        {
+          "startOffset": 13951,
+          "endOffset": 14301,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RTTPinger",
+      "ranges": [
+        {
+          "startOffset": 14341,
+          "endOffset": 14773,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get roundTripTime",
+      "ranges": [
+        {
+          "startOffset": 14778,
+          "endOffset": 14848,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get minRoundTripTime",
+      "ranges": [
+        {
+          "startOffset": 14853,
+          "endOffset": 14929,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 14934,
+          "endOffset": 15104,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "measureAndReschedule",
+      "ranges": [
+        {
+          "startOffset": 15109,
+          "endOffset": 15520,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "measureRoundTripTime",
+      "ranges": [
+        {
+          "startOffset": 15525,
+          "endOffset": 16376,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MonitorInterval",
+      "ranges": [
+        {
+          "startOffset": 16459,
+          "endOffset": 17565,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "wake",
+      "ranges": [
+        {
+          "startOffset": 17570,
+          "endOffset": 18483,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stop",
+      "ranges": [
+        {
+          "startOffset": 18488,
+          "endOffset": 18757,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [
+        {
+          "startOffset": 18762,
+          "endOffset": 18817,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [
+        {
+          "startOffset": 18822,
+          "endOffset": 19393,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_reschedule",
+      "ranges": [
+        {
+          "startOffset": 19398,
+          "endOffset": 19669,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RTTSampler",
+      "ranges": [
+        {
+          "startOffset": 20184,
+          "endOffset": 20330,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addSample",
+      "ranges": [
+        {
+          "startOffset": 20527,
+          "endOffset": 20745,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "min",
+      "ranges": [
+        {
+          "startOffset": 20898,
+          "endOffset": 21162,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "average",
+      "ranges": [
+        {
+          "startOffset": 21238,
+          "endOffset": 21460,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get last",
+      "ranges": [
+        {
+          "startOffset": 21586,
+          "endOffset": 21755,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clear",
+      "ranges": [
+        {
+          "startOffset": 21915,
+          "endOffset": 21984,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

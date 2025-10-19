@@ -1,0 +1,18 @@
+Test
+====
+
+001. A - X
+     Album: N/A
+     Genre: N/A
+     BPM: 120 | Key: 8A | Duration: 5:00
+     File: C:/tmp_test_audio/track1.mp3
+
+002. B - Y
+     Album: N/A
+     Genre: N/A
+     BPM: 122 | Key: 9A | Duration: 5:00
+     File: C:/tmp_test_audio/track2.mp3
+
+
+Total Tracks: 2
+Total Duration: 10:00

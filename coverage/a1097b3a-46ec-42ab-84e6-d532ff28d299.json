@@ -1,0 +1,160 @@
+{
+  "scriptId": "493",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/client-side-encryption/state_machine.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 17552,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 17551,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 17545,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "loadSocks",
+      "ranges": [
+        {
+          "startOffset": 643,
+          "endOffset": 896,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "debug",
+      "ranges": [
+        {
+          "startOffset": 2339,
+          "endOffset": 2486,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "StateMachine",
+      "ranges": [
+        {
+          "startOffset": 3386,
+          "endOffset": 3548,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "execute",
+      "ranges": [
+        {
+          "startOffset": 3634,
+          "endOffset": 8281,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "kmsRequest",
+      "ranges": [
+        {
+          "startOffset": 8554,
+          "endOffset": 13242,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "requests",
+      "ranges": [
+        {
+          "startOffset": 13247,
+          "endOffset": 13435,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateTlsOptions",
+      "ranges": [
+        {
+          "startOffset": 13694,
+          "endOffset": 14047,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setTlsOptions",
+      "ranges": [
+        {
+          "startOffset": 14247,
+          "endOffset": 14731,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchCollectionInfo",
+      "ranges": [
+        {
+          "startOffset": 15332,
+          "endOffset": 15773,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "markCommand",
+      "ranges": [
+        {
+          "startOffset": 16217,
+          "endOffset": 16619,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchKeys",
+      "ranges": [
+        {
+          "startOffset": 17084,
+          "endOffset": 17462,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "scriptId": "372",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/export/base_exporter.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 6646,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 295,
+          "endOffset": 317,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BaseExporter",
+      "ranges": [
+        {
+          "startOffset": 321,
+          "endOffset": 412,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exportMultiple",
+      "ranges": [
+        {
+          "startOffset": 513,
+          "endOffset": 1263,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validatePlanForExport",
+      "ranges": [
+        {
+          "startOffset": 1400,
+          "endOffset": 1867,
+          "count": 4
+        },
+        {
+          "startOffset": 1463,
+          "endOffset": 1619,
+          "count": 0
+        },
+        {
+          "startOffset": 1704,
+          "endOffset": 1833,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getTracksFromPlan",
+      "ranges": [
+        {
+          "startOffset": 1991,
+          "endOffset": 2165,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_exportM3U8",
+      "ranges": [
+        {
+          "startOffset": 2262,
+          "endOffset": 2995,
+          "count": 1
+        },
+        {
+          "startOffset": 2411,
+          "endOffset": 2869,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getM3UExtraMetadata",
+      "ranges": [
+        {
+          "startOffset": 3101,
+          "endOffset": 3395,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateTracksForExport",
+      "ranges": [
+        {
+          "startOffset": 3546,
+          "endOffset": 4336,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getFilePath",
+      "ranges": [
+        {
+          "startOffset": 4579,
+          "endOffset": 4869,
+          "count": 8
+        },
+        {
+          "startOffset": 4645,
+          "endOffset": 4713,
+          "count": 0
+        },
+        {
+          "startOffset": 4732,
+          "endOffset": 4838,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ensureExtension",
+      "ranges": [
+        {
+          "startOffset": 5075,
+          "endOffset": 5234,
+          "count": 4
+        },
+        {
+          "startOffset": 5167,
+          "endOffset": 5209,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escapeM3U",
+      "ranges": [
+        {
+          "startOffset": 5364,
+          "endOffset": 5426,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escapeXML",
+      "ranges": [
+        {
+          "startOffset": 5549,
+          "endOffset": 5702,
+          "count": 13
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escapeCSV",
+      "ranges": [
+        {
+          "startOffset": 5825,
+          "endOffset": 6073,
+          "count": 10
+        },
+        {
+          "startOffset": 5999,
+          "endOffset": 6052,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "writeFile",
+      "ranges": [
+        {
+          "startOffset": 6237,
+          "endOffset": 6365,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "handleExportError",
+      "ranges": [
+        {
+          "startOffset": 6499,
+          "endOffset": 6643,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

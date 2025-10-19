@@ -1,0 +1,130 @@
+{
+  "scriptId": "475",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/whatwg-url/13.0.0/lib/urlencoded.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2990,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 2989,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 2983,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "p",
+      "ranges": [
+        {
+          "startOffset": 418,
+          "endOffset": 468,
+          "count": 28
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseUrlencoded",
+      "ranges": [
+        {
+          "startOffset": 528,
+          "endOffset": 1319,
+          "count": 7
+        },
+        {
+          "startOffset": 678,
+          "endOffset": 1300,
+          "count": 21
+        },
+        {
+          "startOffset": 708,
+          "endOffset": 731,
+          "count": 0
+        },
+        {
+          "startOffset": 925,
+          "endOffset": 991,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseUrlencodedString",
+      "ranges": [
+        {
+          "startOffset": 1386,
+          "endOffset": 1472,
+          "count": 7
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "serializeUrlencoded",
+      "ranges": [
+        {
+          "startOffset": 1536,
+          "endOffset": 2440,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "strictlySplitByteSequence",
+      "ranges": [
+        {
+          "startOffset": 2442,
+          "endOffset": 2738,
+          "count": 7
+        },
+        {
+          "startOffset": 2567,
+          "endOffset": 2656,
+          "count": 14
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "replaceByteInByteSequence",
+      "ranges": [
+        {
+          "startOffset": 2740,
+          "endOffset": 2910,
+          "count": 42
+        },
+        {
+          "startOffset": 2838,
+          "endOffset": 2894,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

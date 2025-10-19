@@ -1,0 +1,138 @@
+{
+  "scriptId": "537",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/gridfs/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5366,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 5365,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 5359,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "GridFSBucket",
+      "ranges": [
+        {
+          "startOffset": 776,
+          "endOffset": 1376,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openUploadStream",
+      "ranges": [
+        {
+          "startOffset": 1686,
+          "endOffset": 1807,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openUploadStreamWithId",
+      "ranges": [
+        {
+          "startOffset": 2014,
+          "endOffset": 2156,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openDownloadStream",
+      "ranges": [
+        {
+          "startOffset": 2260,
+          "endOffset": 2457,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [
+        {
+          "startOffset": 2567,
+          "endOffset": 3075,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "find",
+      "ranges": [
+        {
+          "startOffset": 3147,
+          "endOffset": 3248,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openDownloadStreamByName",
+      "ranges": [
+        {
+          "startOffset": 3619,
+          "endOffset": 4195,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rename",
+      "ranges": [
+        {
+          "startOffset": 4381,
+          "endOffset": 4713,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "drop",
+      "ranges": [
+        {
+          "startOffset": 4804,
+          "endOffset": 4917,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

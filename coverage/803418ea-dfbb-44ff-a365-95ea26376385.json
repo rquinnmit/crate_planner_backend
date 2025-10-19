@@ -1,0 +1,459 @@
+{
+  "scriptId": "337",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/core/crate_planner.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 20892,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 911,
+          "endOffset": 1010,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CratePlanner",
+      "ranges": [
+        {
+          "startOffset": 1014,
+          "endOffset": 1198,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createPlan",
+      "ranges": [
+        {
+          "startOffset": 1272,
+          "endOffset": 1950,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deriveIntentLLM",
+      "ranges": [
+        {
+          "startOffset": 2006,
+          "endOffset": 2781,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2416,
+          "endOffset": 2725,
+          "count": 1
+        },
+        {
+          "startOffset": 2493,
+          "endOffset": 2603,
+          "count": 0
+        },
+        {
+          "startOffset": 2632,
+          "endOffset": 2698,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2727,
+          "endOffset": 2765,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generateCandidatePoolLLM",
+      "ranges": [
+        {
+          "startOffset": 2855,
+          "endOffset": 3191,
+          "count": 1
+        },
+        {
+          "startOffset": 3022,
+          "endOffset": 3101,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_generateCandidatePoolWithSpotify",
+      "ranges": [
+        {
+          "startOffset": 3256,
+          "endOffset": 4936,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_generateCandidatePoolFromDatabase",
+      "ranges": [
+        {
+          "startOffset": 5011,
+          "endOffset": 7725,
+          "count": 1
+        },
+        {
+          "startOffset": 5567,
+          "endOffset": 7721,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 6254,
+          "endOffset": 6329,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 7623,
+          "endOffset": 7632,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sequencePlanLLM",
+      "ranges": [
+        {
+          "startOffset": 7771,
+          "endOffset": 8993,
+          "count": 1
+        },
+        {
+          "startOffset": 7858,
+          "endOffset": 7915,
+          "count": 0
+        },
+        {
+          "startOffset": 8650,
+          "endOffset": 8989,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "explainPlanLLM",
+      "ranges": [
+        {
+          "startOffset": 9056,
+          "endOffset": 9456,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "revisePlanLLM",
+      "ranges": [
+        {
+          "startOffset": 9527,
+          "endOffset": 11355,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getReplacementTracks",
+      "ranges": [
+        {
+          "startOffset": 11478,
+          "endOffset": 12648,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validate",
+      "ranges": [
+        {
+          "startOffset": 12754,
+          "endOffset": 13189,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalize",
+      "ranges": [
+        {
+          "startOffset": 13225,
+          "endOffset": 13491,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setLLMSettings",
+      "ranges": [
+        {
+          "startOffset": 13528,
+          "endOffset": 13635,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setSpotifySearchService",
+      "ranges": [
+        {
+          "startOffset": 13712,
+          "endOffset": 13791,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isSpotifySearchEnabled",
+      "ranges": [
+        {
+          "startOffset": 13846,
+          "endOffset": 13928,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCurrentPlan",
+      "ranges": [
+        {
+          "startOffset": 13965,
+          "endOffset": 14016,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getFinalizedPlans",
+      "ranges": [
+        {
+          "startOffset": 14060,
+          "endOffset": 14117,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "displayCrate",
+      "ranges": [
+        {
+          "startOffset": 14164,
+          "endOffset": 15227,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_parseLLMResponse",
+      "ranges": [
+        {
+          "startOffset": 15342,
+          "endOffset": 15639,
+          "count": 1
+        },
+        {
+          "startOffset": 15503,
+          "endOffset": 15635,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_calculateTotalDuration",
+      "ranges": [
+        {
+          "startOffset": 15700,
+          "endOffset": 15866,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 15819,
+          "endOffset": 15857,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createPlanObject",
+      "ranges": [
+        {
+          "startOffset": 15912,
+          "endOffset": 16269,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_generateCandidatePoolDeterministic",
+      "ranges": [
+        {
+          "startOffset": 16343,
+          "endOffset": 16540,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sequencePlanDeterministic",
+      "ranges": [
+        {
+          "startOffset": 16607,
+          "endOffset": 17496,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createFallbackIntent",
+      "ranges": [
+        {
+          "startOffset": 17554,
+          "endOffset": 18031,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getTrack",
+      "ranges": [
+        {
+          "startOffset": 18139,
+          "endOffset": 18230,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getTracks",
+      "ranges": [
+        {
+          "startOffset": 18290,
+          "endOffset": 18445,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_getAllTracks",
+      "ranges": [
+        {
+          "startOffset": 18493,
+          "endOffset": 18579,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_searchTracks",
+      "ranges": [
+        {
+          "startOffset": 18637,
+          "endOffset": 20489,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_filterValidTrackIds",
+      "ranges": [
+        {
+          "startOffset": 20567,
+          "endOffset": 20889,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 20821,
+          "endOffset": 20830,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 20861,
+          "endOffset": 20883,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

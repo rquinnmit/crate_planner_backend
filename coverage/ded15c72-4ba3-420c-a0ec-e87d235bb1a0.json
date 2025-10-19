@@ -1,0 +1,226 @@
+{
+  "scriptId": "532",
+  "url": "file:///C:/Users/pyanq/AppData/Local/deno/npm/registry.npmjs.org/mongodb/6.10.0/lib/operations/client_bulk_write/command_builder.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 13585,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1,
+          "endOffset": 13584,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 214,
+          "endOffset": 13578,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ClientBulkWriteCommandBuilder",
+      "ranges": [
+        {
+          "startOffset": 1040,
+          "endOffset": 1360,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get errorsOnly",
+      "ranges": [
+        {
+          "startOffset": 1521,
+          "endOffset": 1673,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasNextBatch",
+      "ranges": [
+        {
+          "startOffset": 1807,
+          "endOffset": 1889,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resetBatch",
+      "ranges": [
+        {
+          "startOffset": 2023,
+          "endOffset": 2122,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildBatch",
+      "ranges": [
+        {
+          "startOffset": 2377,
+          "endOffset": 7320,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "baseCommand",
+      "ranges": [
+        {
+          "startOffset": 7325,
+          "endOffset": 8257,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateBufferSize",
+      "ranges": [
+        {
+          "startOffset": 8331,
+          "endOffset": 8622,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildInsertOneOperation",
+      "ranges": [
+        {
+          "startOffset": 8804,
+          "endOffset": 9015,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildDeleteOneOperation",
+      "ranges": [
+        {
+          "startOffset": 9258,
+          "endOffset": 9334,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildDeleteManyOperation",
+      "ranges": [
+        {
+          "startOffset": 9579,
+          "endOffset": 9654,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createDeleteOperation",
+      "ranges": [
+        {
+          "startOffset": 9780,
+          "endOffset": 10103,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildUpdateOneOperation",
+      "ranges": [
+        {
+          "startOffset": 10285,
+          "endOffset": 10361,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildUpdateManyOperation",
+      "ranges": [
+        {
+          "startOffset": 10606,
+          "endOffset": 10681,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateUpdate",
+      "ranges": [
+        {
+          "startOffset": 10825,
+          "endOffset": 11067,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createUpdateOperation",
+      "ranges": [
+        {
+          "startOffset": 11131,
+          "endOffset": 11969,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildReplaceOneOperation",
+      "ranges": [
+        {
+          "startOffset": 12154,
+          "endOffset": 12769,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buildOperation",
+      "ranges": [
+        {
+          "startOffset": 12849,
+          "endOffset": 13532,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "scriptId": "338",
+  "url": "file:///C:/Users/pyanq/6.104/crate_planner_backend/src/utils/database.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1885,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "initMongoClient",
+      "ranges": [
+        {
+          "startOffset": 182,
+          "endOffset": 545,
+          "count": 7
+        },
+        {
+          "startOffset": 293,
+          "endOffset": 371,
+          "count": 0
+        },
+        {
+          "startOffset": 450,
+          "endOffset": 455,
+          "count": 0
+        },
+        {
+          "startOffset": 526,
+          "endOffset": 544,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "init",
+      "ranges": [
+        {
+          "startOffset": 546,
+          "endOffset": 800,
+          "count": 7
+        },
+        {
+          "startOffset": 611,
+          "endOffset": 799,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dropAllCollections",
+      "ranges": [
+        {
+          "startOffset": 801,
+          "endOffset": 1170,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getDb",
+      "ranges": [
+        {
+          "startOffset": 1292,
+          "endOffset": 1411,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "testDb",
+      "ranges": [
+        {
+          "startOffset": 1531,
+          "endOffset": 1762,
+          "count": 7
+        },
+        {
+          "startOffset": 1598,
+          "endOffset": 1761,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "freshID",
+      "ranges": [
+        {
+          "startOffset": 1841,
+          "endOffset": 1884,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}
