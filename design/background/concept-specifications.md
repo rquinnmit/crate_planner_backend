@@ -186,21 +186,43 @@ In concept specs, in contrast, *preconditions are firing conditions*. This means
 
 ## Concept queries
 
-Queries are reads of the concept state. Explicit query specifications are often not required since the concept state is assumed to be visible, so that straightforward queries of the state do not need to be defined in advance. It can be useful, though, to define queries for particularly significant and non-trivial observations of the state. For example, for a *UserProfile* concept with this state
+Queries are reads of the concept state. Explicit query specifications are often not used at the design level, but in specifications of concepts for code all queries that are likely to be needed should be specified.
+For example, for a *UserProfile* concept with this state
 
 	a set of Users with
-	  a bio String
-	  a thumbnail Image
+	  a username String
+	  a password String
 
-one would not define a query to extract the bio of a user. But for a *Friend* concept with this state
+one could define queries to extract the username and password of a user:
 
-	a set of Users with
-	  a friends set of Users
+**queries**
+	\_getUsername (user: User) : (username: String)
+    **requires** user exists
+    **effects** returns username of user
 
-one might define a query that tells you, given two users, how many mutual friends they have:
+	\_getPassword (user: User) : (password: String)
+    **requires** user exists
+    **effects** returns password of user
 
-  \_countMutualFriends (u1: User, u2: User): (count: Number)
-  **effects** return number of mutual friends of users u1 and u2
+Some queries return multiple objects. For example, groups contain sets of users
+
+	a set of Groups with
+	  a users set of User
+
+then a query could take a group and return the set of users in it:
+
+**queries**
+	\_getUsers (group: Group) : (user: User)
+    **requires** group exists
+    **effects** returns set of all users in the group
+
+Note that queries, unlike actions, can return structured objects. For example, given the definitions of users and groups above, we could define a query
+
+	\_getUsersWithUsernamesAndPasswords (group: Group) : (user: {username: String, password: String})
+    **requires** group exists
+    **effects** returns set of all users in the group each with its username and password
+
+that returns a set of users, each with a username and password property.
 
 ## Concepts are not objects
 
